@@ -1,110 +1,113 @@
-[28401:28406:4791614608:WARNING:proxy_service.cc(889)] PAC support disabled because there is no system implementation
+[15530:15535:410374056:WARNING:proxy_service.cc(889)] PAC support disabled because there is no system implementation
 
-(test_shell:28401): IBUS-WARNING **: The owner of /home/mininet/.config/ibus/bus is not root!
+(test_shell:15530): IBUS-WARNING **: The owner of /home/mininet/.config/ibus/bus is not root!
 Loading hacky DNS from '/home/mininet/Desktop/cs6250/cs6250-p4/hack_dns' succeeded.
-Remapping 'apexturbine.com' -> '10.0.0.1' port 8000
-Remapping 'fonts.googleapis.com' -> '10.0.0.2' port 8000
-Remapping 'cdn.jsdelivr.net' -> '10.0.0.3' port 8000
-Remapping 'stats.g.doubleclick.net' -> '10.0.0.4' port 8000
-Remapping 'snap.licdn.com' -> '10.0.0.5' port 8000
-Remapping 'in.getclicky.com' -> '10.0.0.6' port 8000
-Remapping 'www.googletagservices.com' -> '10.0.0.7' port 8000
-Remapping 'www.cplusplus.com' -> '10.0.0.8' port 8000
+Remapping 'cdn.optimizely.com' -> '10.0.0.1' port 8000
+Remapping 'secure.quantserve.com' -> '10.0.0.2' port 8000
+Remapping 'ssl.google-analytics.com' -> '10.0.0.3' port 8000
+Remapping 'fonts.googleapis.com' -> '10.0.0.4' port 8000
+Remapping 'cdn.jsdelivr.net' -> '10.0.0.5' port 8000
+Remapping 'www.reddit.com' -> '10.0.0.6' port 8000
+Remapping 'snap.licdn.com' -> '10.0.0.7' port 8000
+Remapping 'www.googletagservices.com' -> '10.0.0.8' port 8000
 Remapping 'www.google-analytics.com' -> '10.0.0.9' port 8000
 Remapping 'googleads.g.doubleclick.net' -> '10.0.0.10' port 8000
-Remapping 'dt.adsafeprotected.com' -> '10.0.0.11' port 8000
-Remapping 'www.googletagmanager.com' -> '10.0.0.12' port 8000
-Remapping 'mtweb.mtsu.edu' -> '10.0.0.13' port 8000
-Remapping 'en.cppreference.com' -> '10.0.0.14' port 8000
-Remapping 'w1.mtsu.edu' -> '10.0.0.15' port 8000
-Remapping 'px.ads.linkedin.com' -> '10.0.0.16' port 8000
-Remapping 'upload.cppreference.com' -> '10.0.0.17' port 8000
-Remapping 'www.google.com' -> '10.0.0.18' port 8000
-Remapping 'adservice.google.com' -> '10.0.0.19' port 8000
-Remapping 'tpc.googlesyndication.com' -> '10.0.0.20' port 8000
-Remapping 'static.getclicky.com' -> '10.0.0.21' port 8000
-Remapping 'ajax.googleapis.com' -> '10.0.0.22' port 8000
-Remapping 'connect.facebook.net' -> '10.0.0.23' port 8000
-Remapping 'www.getrave.com' -> '10.0.0.24' port 8000
-Remapping 'sc.iasds01.com' -> '10.0.0.25' port 8000
-Remapping 'pagead2.googlesyndication.com' -> '10.0.0.26' port 8000
-Remapping 'ad.doubleclick.net' -> '10.0.0.27' port 8000
-Remapping 'fw.adsafeprotected.com' -> '10.0.0.28' port 8000
-Remapping 'securepubads.g.doubleclick.net' -> '10.0.0.29' port 8000
-Remapping 'static.adsafeprotected.com' -> '10.0.0.30' port 8000
-Remapping 'bid.g.doubleclick.net' -> '10.0.0.31' port 8000
-Remapping 'www.facebook.com' -> '10.0.0.32' port 8000
-Remapping 'www.googleadservices.com' -> '10.0.0.33' port 8000
-Remapping 'i.ytimg.com' -> '10.0.0.34' port 8000
-Remapping 'mtsu.edu' -> '10.0.0.35' port 8000
+Remapping 'munchkin.marketo.net' -> '10.0.0.11' port 8000
+Remapping 's.swiftypecdn.com' -> '10.0.0.12' port 8000
+Remapping 'www.googletagmanager.com' -> '10.0.0.13' port 8000
+Remapping 'www.redditstatic.com' -> '10.0.0.14' port 8000
+Remapping 'alb.reddit.com' -> '10.0.0.15' port 8000
+Remapping 'aax.amazon-adsystem.com' -> '10.0.0.16' port 8000
+Remapping 'en.cppreference.com' -> '10.0.0.17' port 8000
+Remapping 'b.thumbs.redditmedia.com' -> '10.0.0.18' port 8000
+Remapping 'upload.cppreference.com' -> '10.0.0.19' port 8000
+Remapping 'www.google.com' -> '10.0.0.20' port 8000
+Remapping 'adservice.google.com' -> '10.0.0.21' port 8000
+Remapping '194-vvc-221.mktoresp.com' -> '10.0.0.22' port 8000
+Remapping 'a7718922374.cdn.optimizely.com' -> '10.0.0.23' port 8000
+Remapping 'connect.facebook.net' -> '10.0.0.24' port 8000
+Remapping 'a.thumbs.redditmedia.com' -> '10.0.0.25' port 8000
+Remapping 'logx.optimizely.com' -> '10.0.0.26' port 8000
+Remapping 'sb.scorecardresearch.com' -> '10.0.0.27' port 8000
+Remapping 'securepubads.g.doubleclick.net' -> '10.0.0.28' port 8000
+Remapping 'maxcdn.bootstrapcdn.com' -> '10.0.0.29' port 8000
+Remapping 'js.driftt.com' -> '10.0.0.30' port 8000
+Remapping 'fonts.gstatic.com' -> '10.0.0.31' port 8000
+Remapping 'events.reddit.com' -> '10.0.0.32' port 8000
+Remapping 'www.redditmedia.com' -> '10.0.0.33' port 8000
+Remapping 'reddit.com' -> '10.0.0.34' port 8000
+Remapping 'c.amazon-adsystem.com' -> '10.0.0.35' port 8000
+Remapping 'www.gitlab.com' -> '10.0.0.36' port 8000
+Remapping 'www.googleadservices.com' -> '10.0.0.37' port 8000
+Remapping 'about.gitlab.com' -> '10.0.0.38' port 8000
 <stats>
 c:tfo.supported:	1
 c:WebFrameActiveCount:	1
-t:tfo.page_load_timer:	5429
+t:tfo.page_load_timer:	5419
 c:URLRequestCount:	17
 c:disk_cache.miss:	17
 c:HttpNetworkTransaction.Count:	17
 c:tcp.connect:	17
-c:tcp.write_bytes:	8022
+c:tcp.write_bytes:	8023
 c:tcp.read_bytes:	832215
 </stats>
 
 <resolves>
 strt (ms) | end (ms)  | len (ms)  | err | url:port -> address_list
-   98.815 |  3096.964 |  2998.149 |   0 | en.cppreference.com:80 ->  10.0.0.14:8000
-   98.999 |    98.999 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  726.313 |   726.313 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  726.332 |   726.332 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  726.674 |   726.674 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  726.684 |   726.684 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  727.314 |   727.314 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  727.328 |   727.328 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  731.970 |   731.970 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  731.987 |   731.987 |     0.000 |   1 | en.cppreference.com:80 ->  nil
- 1276.992 |  1276.992 |     0.000 |   1 | en.cppreference.com:80 ->  nil
- 1277.011 |  1277.011 |     0.000 |   1 | en.cppreference.com:80 ->  nil
- 1277.292 |  1277.705 |     0.413 |   0 | upload.cppreference.com:80 ->  10.0.0.17:8000
- 1277.304 |  1277.304 |     0.000 |   1 | upload.cppreference.com:80 ->  nil
- 1277.691 |  1277.691 |     0.000 |   1 | upload.cppreference.com:80 ->  nil
- 1277.703 |  1277.703 |     0.000 |   1 | upload.cppreference.com:80 ->  nil
- 1278.002 |  1278.002 |     0.000 |   1 | en.cppreference.com:80 ->  nil
- 1278.014 |  1278.014 |     0.000 |   1 | en.cppreference.com:80 ->  nil
- 1278.256 |  1278.256 |     0.000 |   1 | en.cppreference.com:80 ->  nil
- 1278.265 |  1278.265 |     0.000 |   1 | en.cppreference.com:80 ->  nil
- 1578.648 |  1578.648 |     0.000 |   1 | en.cppreference.com:80 ->  nil
- 1578.669 |  1578.669 |     0.000 |   1 | en.cppreference.com:80 ->  nil
- 2592.668 |  2592.668 |     0.000 |   1 | en.cppreference.com:80 ->  nil
- 2592.731 |  2592.731 |     0.000 |   1 | en.cppreference.com:80 ->  nil
- 3096.944 |  3096.944 |     0.000 |   1 | en.cppreference.com:80 ->  nil
- 3096.962 |  3096.962 |     0.000 |   1 | en.cppreference.com:80 ->  nil
- 3097.854 |  4148.327 |  1050.473 |   0 | www.google-analytics.com:80 ->  10.0.0.9:8000
- 3097.873 |  3097.873 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
- 3736.055 |  5541.028 |  1804.973 |   0 | cdn.jsdelivr.net:80 ->  10.0.0.3:8000
- 3736.075 |  3736.075 |     0.000 |   1 | cdn.jsdelivr.net:80 ->  nil
- 4148.305 |  4148.305 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
- 4148.325 |  4148.325 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
- 5541.008 |  5541.008 |     0.000 |   1 | cdn.jsdelivr.net:80 ->  nil
- 5541.027 |  5541.027 |     0.000 |   1 | cdn.jsdelivr.net:80 ->  nil
+  113.310 |  3086.897 |  2973.587 |   0 | en.cppreference.com:80 ->  10.0.0.17:8000
+  113.505 |   113.505 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  739.281 |   739.281 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  739.307 |   739.307 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  739.759 |   739.759 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  739.775 |   739.775 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  740.236 |   740.236 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  740.248 |   740.248 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  744.481 |   744.481 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  744.499 |   744.499 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+ 1291.112 |  1291.112 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+ 1291.131 |  1291.131 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+ 1291.394 |  1291.443 |     0.049 |   0 | upload.cppreference.com:80 ->  10.0.0.19:8000
+ 1291.408 |  1291.408 |     0.000 |   1 | upload.cppreference.com:80 ->  nil
+ 1291.436 |  1291.436 |     0.000 |   1 | upload.cppreference.com:80 ->  nil
+ 1291.442 |  1291.442 |     0.000 |   1 | upload.cppreference.com:80 ->  nil
+ 1291.965 |  1291.965 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+ 1291.979 |  1291.979 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+ 1292.011 |  1292.011 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+ 1292.016 |  1292.016 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+ 1595.397 |  1595.397 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+ 1595.415 |  1595.415 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+ 2581.835 |  2581.835 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+ 2581.855 |  2581.855 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+ 3086.896 |  3086.896 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+ 3086.897 |  3086.897 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+ 3087.478 |  4137.945 |  1050.467 |   0 | www.google-analytics.com:80 ->  10.0.0.9:8000
+ 3087.499 |  3087.499 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
+ 3725.533 |  5531.191 |  1805.658 |   0 | cdn.jsdelivr.net:80 ->  10.0.0.5:8000
+ 3725.552 |  3725.552 |     0.000 |   1 | cdn.jsdelivr.net:80 ->  nil
+ 4137.925 |  4137.925 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
+ 4137.944 |  4137.944 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
+ 5531.171 |  5531.171 |     0.000 |   1 | cdn.jsdelivr.net:80 ->  nil
+ 5531.189 |  5531.189 |     0.000 |   1 | cdn.jsdelivr.net:80 ->  nil
 </resolves>
 
 <transactions>
 strt (ms) | end (ms)  | len (ms)  | url
-  727.304 |  1231.182 |   503.878 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=cppreference2&*
-  731.958 |  1232.176 |   500.218 | http://en.cppreference.com/mwiki/skins/cppreference2/images/search-ltr.png?303
-   98.777 |  1276.530 |  1177.753 | http://en.cppreference.com/w/cpp/container/vector
-  726.666 |  1417.272 |   690.606 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=site&only=styles&skin=cppreference2&*
- 1276.977 |  1486.770 |   209.793 | http://en.cppreference.com/mwiki/skins/common/images/poweredby_mediawiki_88x31.png
- 1277.993 |  1490.615 |   212.622 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=skins.cppreference2&only=scripts&skin=cppreference2&*
- 1278.248 |  1490.865 |   212.617 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=site&only=scripts&skin=cppreference2&*
-  726.298 |  1577.175 |   850.877 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=ext.gadget.ColiruCompiler%2CMathJax%7Cext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.cppreference2&only=styles&skin=cppreference2&*
- 1277.284 |  1894.247 |   616.963 | http://upload.cppreference.com/mwiki/images/2/2b/powered_by_geshi_88x31.png
- 1277.683 |  1901.078 |   623.395 | http://upload.cppreference.com/mwiki/images/9/94/powered_by_tigertech_88x31.png
- 1578.630 |  2553.241 |   974.611 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki&only=scripts&skin=cppreference2&version=20130903T185640Z
- 2592.649 |  3021.258 |   428.609 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=jquery.client%2Ccookie%2CmwExtension%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.notify%2Cutil%7Cmediawiki.page.startup&skin=cppreference2&version=20180121T110057Z&*
- 3096.930 |  3718.597 |   621.667 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=ext.gadget.ColiruCompiler%2CMathJax%7Cjquery.autoEllipsis%2CcheckboxShiftClick%2Chidpi%2ChighlightText%2CmakeCollapsible%2Cmw-jump%2Cplaceholder%2Csuggestions%7Cmediawiki.action.view.postEdit%7Cmediawiki.api%2Chidpi%2CsearchSuggest%2Cuser%7Cmediawiki.page.ready&skin=cppreference2&version=20180121T150907Z&*
- 3097.841 |  4120.851 |  1023.010 | http://www.google-analytics.com/ga.js
- 4148.288 |  4353.052 |   204.764 | http://www.google-analytics.com/r/__utm.gif?utmwv=5.7.1&utms=1&utmn=482173666&utmhn=en.cppreference.com&utmcs=UTF-8&utmsr=1024x768&utmvp=785x585&utmsc=16-bit&utmul=en-us&utmje=0&utmfl=11.2%20r202&utmdt=std%3A%3Avector%20-%20cppreference.com&utmhid=391748444&utmr=-&utmp=%2Fw%2Fcpp%2Fcontainer%2Fvector&utmht=1519509661394&utmac=UA-2828341-1&utmcc=__utma%3D165123437.1699297436.1519509661.1519509661.1519509661.1%3B%2B__utmz%3D165123437.1519509661.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=1680533863&utmredir=1&utmu=qBAAAAAAAAAAAAAAAAAAAAAE~
- 3736.042 |  5484.784 |  1748.742 | http://cdn.jsdelivr.net/ace/1.2.4/noconflict/ace.js
+  740.225 |  1244.068 |   503.843 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=cppreference2&*
+  744.468 |  1245.381 |   500.913 | http://en.cppreference.com/mwiki/skins/cppreference2/images/search-ltr.png?303
+  113.270 |  1290.412 |  1177.142 | http://en.cppreference.com/w/cpp/container/vector
+  739.747 |  1431.589 |   691.842 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=site&only=styles&skin=cppreference2&*
+ 1291.095 |  1501.807 |   210.712 | http://en.cppreference.com/mwiki/skins/common/images/poweredby_mediawiki_88x31.png
+ 1291.954 |  1503.428 |   211.474 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=skins.cppreference2&only=scripts&skin=cppreference2&*
+ 1292.006 |  1503.984 |   211.978 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=site&only=scripts&skin=cppreference2&*
+  739.259 |  1593.439 |   854.180 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=ext.gadget.ColiruCompiler%2CMathJax%7Cext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.cppreference2&only=styles&skin=cppreference2&*
+ 1291.379 |  1912.284 |   620.905 | http://upload.cppreference.com/mwiki/images/2/2b/powered_by_geshi_88x31.png
+ 1291.431 |  1919.021 |   627.590 | http://upload.cppreference.com/mwiki/images/9/94/powered_by_tigertech_88x31.png
+ 1595.382 |  2542.898 |   947.516 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki&only=scripts&skin=cppreference2&version=20130903T185640Z
+ 2581.818 |  3012.867 |   431.049 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=jquery.client%2Ccookie%2CmwExtension%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.notify%2Cutil%7Cmediawiki.page.startup&skin=cppreference2&version=20180121T110057Z&*
+ 3086.896 |  3707.848 |   620.952 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=ext.gadget.ColiruCompiler%2CMathJax%7Cjquery.autoEllipsis%2CcheckboxShiftClick%2Chidpi%2ChighlightText%2CmakeCollapsible%2Cmw-jump%2Cplaceholder%2Csuggestions%7Cmediawiki.action.view.postEdit%7Cmediawiki.api%2Chidpi%2CsearchSuggest%2Cuser%7Cmediawiki.page.ready&skin=cppreference2&version=20180121T150907Z&*
+ 3087.447 |  4107.845 |  1020.398 | http://www.google-analytics.com/ga.js
+ 4137.909 |  4344.503 |   206.594 | http://www.google-analytics.com/r/__utm.gif?utmwv=5.7.1&utms=1&utmn=640387935&utmhn=en.cppreference.com&utmcs=UTF-8&utmsr=1024x768&utmvp=785x585&utmsc=16-bit&utmul=en-us&utmje=0&utmfl=11.2%20r202&utmdt=std%3A%3Avector%20-%20cppreference.com&utmhid=1351601400&utmr=-&utmp=%2Fw%2Fcpp%2Fcontainer%2Fvector&utmht=1519511601803&utmac=UA-2828341-1&utmcc=__utma%3D165123437.1721173875.1519511602.1519511602.1519511602.1%3B%2B__utmz%3D165123437.1519511602.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=1882587623&utmredir=1&utmu=qBAAAAAAAAAAAAAAAAAAAAAE~
+ 3725.519 |  5476.939 |  1751.420 | http://cdn.jsdelivr.net/ace/1.2.4/noconflict/ace.js
 </transactions>
 
 <responses>
@@ -123,7 +126,7 @@ status       | mime_type       | charset | url -> redirect_url
           OK |       text/html |         | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=jquery.client%2Ccookie%2CmwExtension%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.notify%2Cutil%7Cmediawiki.page.startup&skin=cppreference2&version=20180121T110057Z&* -> nil
           OK |       text/html |         | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=ext.gadget.ColiruCompiler%2CMathJax%7Cjquery.autoEllipsis%2CcheckboxShiftClick%2Chidpi%2ChighlightText%2CmakeCollapsible%2Cmw-jump%2Cplaceholder%2Csuggestions%7Cmediawiki.action.view.postEdit%7Cmediawiki.api%2Chidpi%2CsearchSuggest%2Cuser%7Cmediawiki.page.ready&skin=cppreference2&version=20180121T150907Z&* -> nil
           OK |       text/html |         | http://www.google-analytics.com/ga.js -> nil
-file not found |       text/html |         | http://www.google-analytics.com/r/__utm.gif?utmwv=5.7.1&utms=1&utmn=482173666&utmhn=en.cppreference.com&utmcs=UTF-8&utmsr=1024x768&utmvp=785x585&utmsc=16-bit&utmul=en-us&utmje=0&utmfl=11.2%20r202&utmdt=std%3A%3Avector%20-%20cppreference.com&utmhid=391748444&utmr=-&utmp=%2Fw%2Fcpp%2Fcontainer%2Fvector&utmht=1519509661394&utmac=UA-2828341-1&utmcc=__utma%3D165123437.1699297436.1519509661.1519509661.1519509661.1%3B%2B__utmz%3D165123437.1519509661.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=1680533863&utmredir=1&utmu=qBAAAAAAAAAAAAAAAAAAAAAE~ -> nil
+file not found |       text/html |         | http://www.google-analytics.com/r/__utm.gif?utmwv=5.7.1&utms=1&utmn=640387935&utmhn=en.cppreference.com&utmcs=UTF-8&utmsr=1024x768&utmvp=785x585&utmsc=16-bit&utmul=en-us&utmje=0&utmfl=11.2%20r202&utmdt=std%3A%3Avector%20-%20cppreference.com&utmhid=1351601400&utmr=-&utmp=%2Fw%2Fcpp%2Fcontainer%2Fvector&utmht=1519511601803&utmac=UA-2828341-1&utmcc=__utma%3D165123437.1721173875.1519511602.1519511602.1519511602.1%3B%2B__utmz%3D165123437.1519511602.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=1882587623&utmredir=1&utmu=qBAAAAAAAAAAAAAAAAAAAAAE~ -> nil
           OK |       text/html |         | http://cdn.jsdelivr.net/ace/1.2.4/noconflict/ace.js -> nil
 </responses>
 
@@ -180,7 +183,7 @@ Histogram: Net.HttpConnectionLatency recorded 17 samples, average = 0.0 (flags =
 0  ------------------------------------------------------------------------O (17 = 100.0%)
 1  ... 
 
-Histogram: Net.HttpJob.TotalTime recorded 16 samples, average = 661.7 (flags = 0x1)
+Histogram: Net.HttpJob.TotalTime recorded 16 samples, average = 661.0 (flags = 0x1)
 0     ... 
 190   ------------------------------------------------------------------------O (4 = 25.0%) {0.0%}
 226   ... 
@@ -195,7 +198,7 @@ Histogram: Net.HttpJob.TotalTime recorded 16 samples, average = 661.7 (flags = 0
 1500  ------------------O                                                       (1 = 6.2%) {93.8%}
 1782  ... 
 
-Histogram: Net.HttpJob.TotalTimeNotCached recorded 16 samples, average = 661.7 (flags = 0x1)
+Histogram: Net.HttpJob.TotalTimeNotCached recorded 16 samples, average = 661.0 (flags = 0x1)
 0     ... 
 190   ------------------------------------------------------------------------O (4 = 25.0%) {0.0%}
 226   ... 
@@ -210,7 +213,7 @@ Histogram: Net.HttpJob.TotalTimeNotCached recorded 16 samples, average = 661.7 (
 1500  ------------------O                                                       (1 = 6.2%) {93.8%}
 1782  ... 
 
-Histogram: Net.HttpJob.TotalTimeSuccess recorded 16 samples, average = 661.7 (flags = 0x1)
+Histogram: Net.HttpJob.TotalTimeSuccess recorded 16 samples, average = 661.0 (flags = 0x1)
 0     ... 
 190   ------------------------------------------------------------------------O (4 = 25.0%) {0.0%}
 226   ... 
@@ -236,7 +239,7 @@ Histogram: Net.HttpSocketType recorded 17 samples, average = 0.0 (flags = 0x1)
 0  ------------------------------------------------------------------------O (17 = 100.0%)
 1  ... 
 
-Histogram: Net.HttpTimeToFirstByte recorded 16 samples, average = 398.4 (flags = 0x1)
+Histogram: Net.HttpTimeToFirstByte recorded 16 samples, average = 398.8 (flags = 0x1)
 0    ... 
 171  ------------------------------------------------------------------------O (5 = 31.2%) {0.0%}
 210  -----------------------------O                                            (2 = 12.5%) {31.2%}
@@ -400,7 +403,7 @@ Histogram: Net.TCP_Connection_Latency_IPv4_No_Race recorded 17 samples, average 
 0  ------------------------------------------------------------------------O (17 = 100.0%)
 1  ... 
 
-Histogram: Net.Transaction_Latency_Total recorded 16 samples, average = 661.4 (flags = 0x1)
+Histogram: Net.Transaction_Latency_Total recorded 16 samples, average = 660.7 (flags = 0x1)
 0     ... 
 186   ------------------------------------------------O                         (2 = 12.5%) {0.0%}
 211   ------------------------------------------------O                         (2 = 12.5%) {12.5%}
@@ -418,7 +421,7 @@ Histogram: Net.Transaction_Latency_Total recorded 16 samples, average = 661.4 (f
 1546  ------------------------O                                                 (1 = 6.2%) {93.8%}
 1750  ... 
 
-Histogram: Net.Transaction_Latency_Total_New_Connection recorded 16 samples, average = 661.4 (flags = 0x1)
+Histogram: Net.Transaction_Latency_Total_New_Connection recorded 16 samples, average = 660.7 (flags = 0x1)
 0     ... 
 186   ------------------------------------------------O                         (2 = 12.5%) {0.0%}
 211   ------------------------------------------------O                         (2 = 12.5%) {12.5%}
@@ -433,11 +436,11 @@ Histogram: Net.Transaction_Latency_Total_New_Connection recorded 16 samples, ave
 941   ------------------------------------------------O                         (2 = 12.5%) {75.0%}
 1065  ------------------------O                                                 (1 = 6.2%) {87.5%}
 1206  ... 
-1546  ------------------------O                                                 (1 = [28401:28406:4797067540:FATAL:url_request_context.cc(121)] Check failed: false. Leaked 1 URLRequest(s). First URL: http://cdn.jsdelivr.net/ace/1.2.4/noconflict/mode-c_cpp.js.
-6.2%) {93.8%}
+1546  ------------------------O                                                 (1 [15530:15535:415801882:FATAL:url_request_context.cc(121)] Check failed: false. Leaked 1 URLRequest(s). First URL: http://cdn.jsdelivr.net/ace/1.2.4/noconflict/mode-c_cpp.js.
+= 6.2%) {93.8%}
 1750  ... 
 
-Histogram: Net.Transaction_Latency_b recorded 16 samples, average = 661.4 (flags = 0x1)
+Histogram: Net.Transaction_Latency_b recorded 16 samples, average = 660.5 (flags = 0x1)
 0     ... 
 186   ------------------------------------------------O                         (2 = 12.5%) {0.0%}
 211   ------------------------------------------------O                         (2 = 12.5%) {12.5%}
@@ -460,9 +463,9 @@ Histogram: Net.Transaction_Latency_b recorded 16 samples, average = 661.4 (flags
 Received signal 6
  [0x000000531f1e] base::debug::StackTrace::StackTrace()
  [0x000000532418] base::debug::(anonymous namespace)::StackDumpSignalHandler()
- [0x7fdaa7046340] <unknown>
- [0x7fdaa606fcc9] gsignal
- [0x7fdaa60730d8] abort
+ [0x7f1c7c488340] <unknown>
+ [0x7f1c7b4b1cc9] gsignal
+ [0x7f1c7b4b50d8] abort
  [0x00000056c349] base::debug::BreakDebugger()
  [0x0000005405cd] logging::LogMessage::~LogMessage()
  [0x000001c2eb7e] net::URLRequestContext::AssertNoURLRequests()
@@ -471,11 +474,11 @@ Received signal 6
  [0x000001ae3c1f] (anonymous namespace)::IOThread::CleanUp()
  [0x00000055eafd] base::Thread::ThreadMain()
  [0x00000055e361] base::(anonymous namespace)::ThreadFunc()
- [0x7fdaa703e182] start_thread
- [0x7fdaa613347d] clone
-  r8: 000000000204024d  r9: 00007fda9e28bb5e r10: 0000000000000008 r11: 0000000000000202
- r12: 0000000000000000 r13: 00007fdaa63f8868 r14: 00007fda9e28d9c0 r15: 00007fda9e28d700
-  di: 0000000000006ef1  si: 0000000000006ef6  bp: 00007fdaa6c1d3c0  bx: 00007fda9e28c650
-  dx: 0000000000000006  ax: 0000000000000000  cx: ffffffffffffffff  sp: 00007fda9e28bdf8
-  ip: 00007fdaa606fcc9 efl: 0000000000000202 cgf: 0000000000000033 erf: 0000000000000000
+ [0x7f1c7c480182] start_thread
+ [0x7f1c7b57547d] clone
+  r8: 000000000204024d  r9: 00007f1c736cdb5f r10: 0000000000000008 r11: 0000000000000206
+ r12: 0000000000000000 r13: 00007f1c7b83a868 r14: 00007f1c736cf9c0 r15: 00007f1c736cf700
+  di: 0000000000003caa  si: 0000000000003caf  bp: 00007f1c7c05f3c0  bx: 00007f1c736ce650
+  dx: 0000000000000006  ax: 0000000000000000  cx: ffffffffffffffff  sp: 00007f1c736cddf8
+  ip: 00007f1c7b4b1cc9 efl: 0000000000000206 cgf: 0000000000000033 erf: 0000000000000000
  trp: 0000000000000000 msk: 0000000000000000 cr2: 0000000000000000

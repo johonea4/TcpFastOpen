@@ -1,46 +1,49 @@
-[19281:19286:4663162781:WARNING:proxy_service.cc(889)] PAC support disabled because there is no system implementation
+[4296:4301:177253952:WARNING:proxy_service.cc(889)] PAC support disabled because there is no system implementation
 
-(test_shell:19281): IBUS-WARNING **: The owner of /home/mininet/.config/ibus/bus is not root!
+(test_shell:4296): IBUS-WARNING **: The owner of /home/mininet/.config/ibus/bus is not root!
 Loading hacky DNS from '/home/mininet/Desktop/cs6250/cs6250-p4/hack_dns' succeeded.
-Remapping 'apexturbine.com' -> '10.0.0.1' port 8000
-Remapping 'fonts.googleapis.com' -> '10.0.0.2' port 8000
-Remapping 'cdn.jsdelivr.net' -> '10.0.0.3' port 8000
-Remapping 'stats.g.doubleclick.net' -> '10.0.0.4' port 8000
-Remapping 'snap.licdn.com' -> '10.0.0.5' port 8000
-Remapping 'in.getclicky.com' -> '10.0.0.6' port 8000
-Remapping 'www.googletagservices.com' -> '10.0.0.7' port 8000
-Remapping 'www.cplusplus.com' -> '10.0.0.8' port 8000
+Remapping 'cdn.optimizely.com' -> '10.0.0.1' port 8000
+Remapping 'secure.quantserve.com' -> '10.0.0.2' port 8000
+Remapping 'ssl.google-analytics.com' -> '10.0.0.3' port 8000
+Remapping 'fonts.googleapis.com' -> '10.0.0.4' port 8000
+Remapping 'cdn.jsdelivr.net' -> '10.0.0.5' port 8000
+Remapping 'www.reddit.com' -> '10.0.0.6' port 8000
+Remapping 'snap.licdn.com' -> '10.0.0.7' port 8000
+Remapping 'www.googletagservices.com' -> '10.0.0.8' port 8000
 Remapping 'www.google-analytics.com' -> '10.0.0.9' port 8000
 Remapping 'googleads.g.doubleclick.net' -> '10.0.0.10' port 8000
-Remapping 'dt.adsafeprotected.com' -> '10.0.0.11' port 8000
-Remapping 'www.googletagmanager.com' -> '10.0.0.12' port 8000
-Remapping 'mtweb.mtsu.edu' -> '10.0.0.13' port 8000
-Remapping 'en.cppreference.com' -> '10.0.0.14' port 8000
-Remapping 'w1.mtsu.edu' -> '10.0.0.15' port 8000
-Remapping 'px.ads.linkedin.com' -> '10.0.0.16' port 8000
-Remapping 'upload.cppreference.com' -> '10.0.0.17' port 8000
-Remapping 'www.google.com' -> '10.0.0.18' port 8000
-Remapping 'adservice.google.com' -> '10.0.0.19' port 8000
-Remapping 'tpc.googlesyndication.com' -> '10.0.0.20' port 8000
-Remapping 'static.getclicky.com' -> '10.0.0.21' port 8000
-Remapping 'ajax.googleapis.com' -> '10.0.0.22' port 8000
-Remapping 'connect.facebook.net' -> '10.0.0.23' port 8000
-Remapping 'www.getrave.com' -> '10.0.0.24' port 8000
-Remapping 'sc.iasds01.com' -> '10.0.0.25' port 8000
-Remapping 'pagead2.googlesyndication.com' -> '10.0.0.26' port 8000
-Remapping 'ad.doubleclick.net' -> '10.0.0.27' port 8000
-Remapping 'fw.adsafeprotected.com' -> '10.0.0.28' port 8000
-Remapping 'securepubads.g.doubleclick.net' -> '10.0.0.29' port 8000
-Remapping 'static.adsafeprotected.com' -> '10.0.0.30' port 8000
-Remapping 'bid.g.doubleclick.net' -> '10.0.0.31' port 8000
-Remapping 'www.facebook.com' -> '10.0.0.32' port 8000
-Remapping 'www.googleadservices.com' -> '10.0.0.33' port 8000
-Remapping 'i.ytimg.com' -> '10.0.0.34' port 8000
-Remapping 'mtsu.edu' -> '10.0.0.35' port 8000
+Remapping 'munchkin.marketo.net' -> '10.0.0.11' port 8000
+Remapping 's.swiftypecdn.com' -> '10.0.0.12' port 8000
+Remapping 'www.googletagmanager.com' -> '10.0.0.13' port 8000
+Remapping 'www.redditstatic.com' -> '10.0.0.14' port 8000
+Remapping 'alb.reddit.com' -> '10.0.0.15' port 8000
+Remapping 'aax.amazon-adsystem.com' -> '10.0.0.16' port 8000
+Remapping 'en.cppreference.com' -> '10.0.0.17' port 8000
+Remapping 'b.thumbs.redditmedia.com' -> '10.0.0.18' port 8000
+Remapping 'upload.cppreference.com' -> '10.0.0.19' port 8000
+Remapping 'www.google.com' -> '10.0.0.20' port 8000
+Remapping 'adservice.google.com' -> '10.0.0.21' port 8000
+Remapping '194-vvc-221.mktoresp.com' -> '10.0.0.22' port 8000
+Remapping 'a7718922374.cdn.optimizely.com' -> '10.0.0.23' port 8000
+Remapping 'connect.facebook.net' -> '10.0.0.24' port 8000
+Remapping 'a.thumbs.redditmedia.com' -> '10.0.0.25' port 8000
+Remapping 'logx.optimizely.com' -> '10.0.0.26' port 8000
+Remapping 'sb.scorecardresearch.com' -> '10.0.0.27' port 8000
+Remapping 'securepubads.g.doubleclick.net' -> '10.0.0.28' port 8000
+Remapping 'maxcdn.bootstrapcdn.com' -> '10.0.0.29' port 8000
+Remapping 'js.driftt.com' -> '10.0.0.30' port 8000
+Remapping 'fonts.gstatic.com' -> '10.0.0.31' port 8000
+Remapping 'events.reddit.com' -> '10.0.0.32' port 8000
+Remapping 'www.redditmedia.com' -> '10.0.0.33' port 8000
+Remapping 'reddit.com' -> '10.0.0.34' port 8000
+Remapping 'c.amazon-adsystem.com' -> '10.0.0.35' port 8000
+Remapping 'www.gitlab.com' -> '10.0.0.36' port 8000
+Remapping 'www.googleadservices.com' -> '10.0.0.37' port 8000
+Remapping 'about.gitlab.com' -> '10.0.0.38' port 8000
 <stats>
 c:tfo.supported:	0
 c:WebFrameActiveCount:	1
-t:tfo.page_load_timer:	2067
+t:tfo.page_load_timer:	2066
 c:URLRequestCount:	17
 c:disk_cache.miss:	17
 c:HttpNetworkTransaction.Count:	17
@@ -51,60 +54,60 @@ c:tcp.read_bytes:	832215
 
 <resolves>
 strt (ms) | end (ms)  | len (ms)  | err | url:port -> address_list
-   81.500 |  1107.887 |  1026.387 |   0 | en.cppreference.com:80 ->  10.0.0.14:8000
-   81.688 |    81.688 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  146.945 |   146.945 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  146.962 |   146.962 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  147.215 |   147.215 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  147.225 |   147.225 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  147.598 |   147.598 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  147.609 |   147.609 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  151.647 |   151.647 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  151.664 |   151.664 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  296.406 |   296.406 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  296.437 |   296.437 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  296.749 |   296.956 |     0.207 |   0 | upload.cppreference.com:80 ->  10.0.0.17:8000
-  296.762 |   296.762 |     0.000 |   1 | upload.cppreference.com:80 ->  nil
-  296.943 |   296.943 |     0.000 |   1 | upload.cppreference.com:80 ->  nil
-  296.955 |   296.955 |     0.000 |   1 | upload.cppreference.com:80 ->  nil
-  297.140 |   297.140 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  297.149 |   297.149 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  297.325 |   297.325 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  384.797 |   384.797 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  511.010 |   511.010 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  511.032 |   511.032 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  936.658 |   936.658 |     0.000 |   1 | en.cppreference.com:80 ->  nil
-  936.675 |   936.675 |     0.000 |   1 | en.cppreference.com:80 ->  nil
- 1107.868 |  1107.868 |     0.000 |   1 | en.cppreference.com:80 ->  nil
- 1107.885 |  1107.885 |     0.000 |   1 | en.cppreference.com:80 ->  nil
- 1108.995 |  1276.202 |   167.207 |   0 | www.google-analytics.com:80 ->  10.0.0.9:8000
- 1109.013 |  1109.013 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
- 1276.182 |  1276.182 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
- 1276.200 |  1276.200 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
- 1316.549 |  2163.921 |   847.372 |   0 | cdn.jsdelivr.net:80 ->  10.0.0.3:8000
- 1316.569 |  1316.569 |     0.000 |   1 | cdn.jsdelivr.net:80 ->  nil
- 2163.893 |  2163.893 |     0.000 |   1 | cdn.jsdelivr.net:80 ->  nil
- 2163.918 |  2163.918 |     0.000 |   1 | cdn.jsdelivr.net:80 ->  nil
+   73.877 |  1105.336 |  1031.459 |   0 | en.cppreference.com:80 ->  10.0.0.17:8000
+   74.075 |    74.075 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  137.754 |   137.754 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  137.771 |   137.771 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  138.010 |   138.010 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  138.022 |   138.022 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  138.271 |   138.271 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  138.285 |   138.285 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  143.237 |   143.237 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  143.256 |   143.256 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  288.864 |   288.864 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  288.882 |   288.882 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  289.140 |   289.340 |     0.200 |   0 | upload.cppreference.com:80 ->  10.0.0.19:8000
+  289.153 |   289.153 |     0.000 |   1 | upload.cppreference.com:80 ->  nil
+  289.330 |   289.330 |     0.000 |   1 | upload.cppreference.com:80 ->  nil
+  289.339 |   289.339 |     0.000 |   1 | upload.cppreference.com:80 ->  nil
+  289.511 |   289.511 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  289.525 |   289.525 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  289.719 |   289.719 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  371.389 |   371.389 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  501.755 |   501.755 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  501.772 |   501.772 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  933.537 |   933.537 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+  933.555 |   933.555 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+ 1105.317 |  1105.317 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+ 1105.335 |  1105.335 |     0.000 |   1 | en.cppreference.com:80 ->  nil
+ 1106.190 |  1273.947 |   167.757 |   0 | www.google-analytics.com:80 ->  10.0.0.9:8000
+ 1106.210 |  1106.210 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
+ 1273.924 |  1273.924 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
+ 1273.946 |  1273.946 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
+ 1311.029 |  2153.283 |   842.254 |   0 | cdn.jsdelivr.net:80 ->  10.0.0.5:8000
+ 1311.050 |  1311.050 |     0.000 |   1 | cdn.jsdelivr.net:80 ->  nil
+ 2153.263 |  2153.263 |     0.000 |   1 | cdn.jsdelivr.net:80 ->  nil
+ 2153.282 |  2153.282 |     0.000 |   1 | cdn.jsdelivr.net:80 ->  nil
 </resolves>
 
 <transactions>
 strt (ms) | end (ms)  | len (ms)  | url
-   81.438 |   295.950 |   214.512 | http://en.cppreference.com/w/cpp/container/vector
-  296.740 |   348.261 |    51.521 | http://upload.cppreference.com/mwiki/images/2/2b/powered_by_geshi_88x31.png
-  296.935 |   356.075 |    59.140 | http://upload.cppreference.com/mwiki/images/9/94/powered_by_tigertech_88x31.png
-  147.590 |   384.855 |   237.265 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=cppreference2&*
-  151.634 |   384.896 |   233.262 | http://en.cppreference.com/mwiki/skins/cppreference2/images/search-ltr.png?303
-  147.204 |   468.346 |   321.142 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=site&only=styles&skin=cppreference2&*
-  296.394 |   487.499 |   191.105 | http://en.cppreference.com/mwiki/skins/common/images/poweredby_mediawiki_88x31.png
-  297.133 |   490.424 |   193.291 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=skins.cppreference2&only=scripts&skin=cppreference2&*
-  146.931 |   509.525 |   362.594 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=ext.gadget.ColiruCompiler%2CMathJax%7Cext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.cppreference2&only=styles&skin=cppreference2&*
-  297.317 |   515.020 |   217.703 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=site&only=scripts&skin=cppreference2&*
-  510.991 |   900.665 |   389.674 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki&only=scripts&skin=cppreference2&version=20130903T185640Z
-  936.644 |  1032.369 |    95.725 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=jquery.client%2Ccookie%2CmwExtension%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.notify%2Cutil%7Cmediawiki.page.startup&skin=cppreference2&version=20180121T110057Z&*
- 1108.983 |  1249.258 |   140.275 | http://www.google-analytics.com/ga.js
- 1107.854 |  1294.427 |   186.573 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=ext.gadget.ColiruCompiler%2CMathJax%7Cjquery.autoEllipsis%2CcheckboxShiftClick%2Chidpi%2ChighlightText%2CmakeCollapsible%2Cmw-jump%2Cplaceholder%2Csuggestions%7Cmediawiki.action.view.postEdit%7Cmediawiki.api%2Chidpi%2CsearchSuggest%2Cuser%7Cmediawiki.page.ready&skin=cppreference2&version=20180121T150907Z&*
- 1276.167 |  1349.019 |    72.852 | http://www.google-analytics.com/r/__utm.gif?utmwv=5.7.1&utms=1&utmn=1581122042&utmhn=en.cppreference.com&utmcs=UTF-8&utmsr=1024x768&utmvp=785x600&utmsc=16-bit&utmul=en-us&utmje=0&utmfl=11.2%20r202&utmdt=std%3A%3Avector%20-%20cppreference.com&utmhid=1014643923&utmr=-&utmp=%2Fw%2Fcpp%2Fcontainer%2Fvector&utmht=1519509530086&utmac=UA-2828341-1&utmcc=__utma%3D165123437.48892532.1519509530.1519509530.1519509530.1%3B%2B__utmz%3D165123437.1519509530.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=1976388845&utmredir=1&utmu=qBAAAAAAAAAAAAAAAAAAAAAE~
- 1316.534 |  2108.689 |   792.155 | http://cdn.jsdelivr.net/ace/1.2.4/noconflict/ace.js
+   73.803 |   287.667 |   213.864 | http://en.cppreference.com/w/cpp/container/vector
+  289.132 |   340.412 |    51.280 | http://upload.cppreference.com/mwiki/images/2/2b/powered_by_geshi_88x31.png
+  289.322 |   346.854 |    57.532 | http://upload.cppreference.com/mwiki/images/9/94/powered_by_tigertech_88x31.png
+  138.261 |   371.445 |   233.184 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=cppreference2&*
+  143.223 |   376.044 |   232.821 | http://en.cppreference.com/mwiki/skins/cppreference2/images/search-ltr.png?303
+  138.002 |   459.580 |   321.578 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=site&only=styles&skin=cppreference2&*
+  288.849 |   479.326 |   190.477 | http://en.cppreference.com/mwiki/skins/common/images/poweredby_mediawiki_88x31.png
+  289.502 |   481.404 |   191.902 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=skins.cppreference2&only=scripts&skin=cppreference2&*
+  137.740 |   500.375 |   362.635 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=ext.gadget.ColiruCompiler%2CMathJax%7Cext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.cppreference2&only=styles&skin=cppreference2&*
+  289.709 |   506.051 |   216.342 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=site&only=scripts&skin=cppreference2&*
+  501.741 |   885.017 |   383.276 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki&only=scripts&skin=cppreference2&version=20130903T185640Z
+  933.523 |  1030.330 |    96.807 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=jquery.client%2Ccookie%2CmwExtension%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.notify%2Cutil%7Cmediawiki.page.startup&skin=cppreference2&version=20180121T110057Z&*
+ 1106.170 |  1245.942 |   139.772 | http://www.google-analytics.com/ga.js
+ 1105.302 |  1292.044 |   186.742 | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=ext.gadget.ColiruCompiler%2CMathJax%7Cjquery.autoEllipsis%2CcheckboxShiftClick%2Chidpi%2ChighlightText%2CmakeCollapsible%2Cmw-jump%2Cplaceholder%2Csuggestions%7Cmediawiki.action.view.postEdit%7Cmediawiki.api%2Chidpi%2CsearchSuggest%2Cuser%7Cmediawiki.page.ready&skin=cppreference2&version=20180121T150907Z&*
+ 1273.905 |  1345.317 |    71.412 | http://www.google-analytics.com/r/__utm.gif?utmwv=5.7.1&utms=1&utmn=1807484791&utmhn=en.cppreference.com&utmcs=UTF-8&utmsr=1024x768&utmvp=785x600&utmsc=16-bit&utmul=en-us&utmje=0&utmfl=11.2%20r202&utmdt=std%3A%3Avector%20-%20cppreference.com&utmhid=469415415&utmr=-&utmp=%2Fw%2Fcpp%2Fcontainer%2Fvector&utmht=1519511365858&utmac=UA-2828341-1&utmcc=__utma%3D165123437.206152818.1519511366.1519511366.1519511366.1%3B%2B__utmz%3D165123437.1519511366.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=1918836757&utmredir=1&utmu=qBAAAAAAAAAAAAAAAAAAAAAE~
+ 1311.014 |  2098.118 |   787.104 | http://cdn.jsdelivr.net/ace/1.2.4/noconflict/ace.js
 </transactions>
 
 <responses>
@@ -123,7 +126,7 @@ status       | mime_type       | charset | url -> redirect_url
           OK |       text/html |         | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=jquery.client%2Ccookie%2CmwExtension%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.notify%2Cutil%7Cmediawiki.page.startup&skin=cppreference2&version=20180121T110057Z&* -> nil
           OK |       text/html |         | http://www.google-analytics.com/ga.js -> nil
           OK |       text/html |         | http://en.cppreference.com/mwiki/load.php?debug=false&lang=en&modules=ext.gadget.ColiruCompiler%2CMathJax%7Cjquery.autoEllipsis%2CcheckboxShiftClick%2Chidpi%2ChighlightText%2CmakeCollapsible%2Cmw-jump%2Cplaceholder%2Csuggestions%7Cmediawiki.action.view.postEdit%7Cmediawiki.api%2Chidpi%2CsearchSuggest%2Cuser%7Cmediawiki.page.ready&skin=cppreference2&version=20180121T150907Z&* -> nil
-file not found |       text/html |         | http://www.google-analytics.com/r/__utm.gif?utmwv=5.7.1&utms=1&utmn=1581122042&utmhn=en.cppreference.com&utmcs=UTF-8&utmsr=1024x768&utmvp=785x600&utmsc=16-bit&utmul=en-us&utmje=0&utmfl=11.2%20r202&utmdt=std%3A%3Avector%20-%20cppreference.com&utmhid=1014643923&utmr=-&utmp=%2Fw%2Fcpp%2Fcontainer%2Fvector&utmht=1519509530086&utmac=UA-2828341-1&utmcc=__utma%3D165123437.48892532.1519509530.1519509530.1519509530.1%3B%2B__utmz%3D165123437.1519509530.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=1976388845&utmredir=1&utmu=qBAAAAAAAAAAAAAAAAAAAAAE~ -> nil
+file not found |       text/html |         | http://www.google-analytics.com/r/__utm.gif?utmwv=5.7.1&utms=1&utmn=1807484791&utmhn=en.cppreference.com&utmcs=UTF-8&utmsr=1024x768&utmvp=785x600&utmsc=16-bit&utmul=en-us&utmje=0&utmfl=11.2%20r202&utmdt=std%3A%3Avector%20-%20cppreference.com&utmhid=469415415&utmr=-&utmp=%2Fw%2Fcpp%2Fcontainer%2Fvector&utmht=1519511365858&utmac=UA-2828341-1&utmcc=__utma%3D165123437.206152818.1519511366.1519511366.1519511366.1%3B%2B__utmz%3D165123437.1519511366.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=1918836757&utmredir=1&utmu=qBAAAAAAAAAAAAAAAAAAAAAE~ -> nil
           OK |       text/html |         | http://cdn.jsdelivr.net/ace/1.2.4/noconflict/ace.js -> nil
 </responses>
 
@@ -166,18 +169,17 @@ Histogram: Net.ConnectionTypeCount3 recorded 32 samples, average = 3.5 (flags = 
 7  ------------------------------------------------------------------------O (16 = 50.0%) {50.0%}
 8  ... 
 
-Histogram: Net.DNS_Resolution_And_TCP_Connection_Latency2 recorded 16 samples, average = 46.4 (flags = 0x1)
-0    ... 
-23   ------------------------------------------------------------------------O (7 = 43.8%) {0.0%}
-26   ---------------------O                                                    (2 = 12.5%) {43.8%}
-29   ... 
-54   -------------------O                                                      (3 = 18.8%) {56.2%}
-61   ------O                                                                   (1 = 6.2%) {75.0%}
-69   O                                                                         (0 = 0.0%) {81.2%}
-78   ------O                                                                   (1 = 6.2%) {81.2%}
-88   ------O                                                                   (1 = 6.2%) {87.5%}
-100  ------O                                                                   (1 = 6.2%) {93.8%}
-113  ... 
+Histogram: Net.DNS_Resolution_And_TCP_Connection_Latency2 recorded 16 samples, average = 45.7 (flags = 0x1)
+0   ... 
+23  ------------------------------------------------------------------------O (6 = 37.5%) {0.0%}
+26  ------------------------------------O                                     (3 = 18.8%) {37.5%}
+29  ... 
+54  ----------------------O                                                   (3 = 18.8%) {56.2%}
+61  -------O                                                                  (1 = 6.2%) {75.0%}
+69  O                                                                         (0 = 0.0%) {81.2%}
+78  --------------O                                                           (2 = 12.5%) {81.2%}
+88  -------O                                                                  (1 = 6.2%) {93.8%}
+100 ... 
 
 Histogram: Net.HadConnectionType3 recorded 2 samples, average = 3.5 (flags = 0x1)
 0  ------------------------------------------------------------------------O (1 = 50.0%)
@@ -185,27 +187,27 @@ Histogram: Net.HadConnectionType3 recorded 2 samples, average = 3.5 (flags = 0x1
 7  ------------------------------------------------------------------------O (1 = 50.0%) {50.0%}
 8  ... 
 
-Histogram: Net.HttpConnectionLatency recorded 16 samples, average = 52.0 (flags = 0x1)
+Histogram: Net.HttpConnectionLatency recorded 16 samples, average = 50.8 (flags = 0x1)
 0    ... 
-23   ------------------------------------------------------------------------O (7 = 43.8%) {0.0%}
-26   ---------------------O                                                    (2 = 12.5%) {43.8%}
+23   ------------------------------------------------------------------------O (6 = 37.5%) {0.0%}
+26   ------------------------------------O                                     (3 = 18.8%) {37.5%}
 29   ... 
-54   -------------------O                                                      (3 = 18.8%) {56.2%}
-61   ------O                                                                   (1 = 6.2%) {75.0%}
+54   ----------------------O                                                   (3 = 18.8%) {56.2%}
+61   -------O                                                                  (1 = 6.2%) {75.0%}
 69   O                                                                         (0 = 0.0%) {81.2%}
-78   ------O                                                                   (1 = 6.2%) {81.2%}
-88   ------O                                                                   (1 = 6.2%) {87.5%}
-100  ... 
-186  ------O                                                                   (1 = 6.2%) {93.8%}
-211  ... 
+78   --------------O                                                           (2 = 12.5%) {81.2%}
+88   ... 
+164  -------O                                                                  (1 = 6.2%) {93.8%}
+186  ... 
 
-Histogram: Net.HttpJob.TotalTime recorded 16 samples, average = 233.9 (flags = 0x1)
+Histogram: Net.HttpJob.TotalTime recorded 16 samples, average = 232.9 (flags = 0x1)
 0    ... 
 48   ------------------O                                                       (1 = 6.2%) {0.0%}
 57   ------------------O                                                       (1 = 6.2%) {6.2%}
 68   ------------------O                                                       (1 = 6.2%) {12.5%}
-81   ------------------O                                                       (1 = 6.2%) {18.8%}
-96   ... 
+81   O                                                                         (0 = 0.0%) {18.8%}
+96   ------------------O                                                       (1 = 6.2%) {18.8%}
+114  O                                                                         (0 = 0.0%) {25.0%}
 135  ------------------O                                                       (1 = 6.2%) {25.0%}
 160  ------------------O                                                       (1 = 6.2%) {31.2%}
 190  ------------------------------------------------------------------------O (4 = 25.0%) {37.5%}
@@ -217,13 +219,14 @@ Histogram: Net.HttpJob.TotalTime recorded 16 samples, average = 233.9 (flags = 0
 752  ------------------O                                                       (1 = 6.2%) {93.8%}
 894  ... 
 
-Histogram: Net.HttpJob.TotalTimeNotCached recorded 16 samples, average = 233.9 (flags = 0x1)
+Histogram: Net.HttpJob.TotalTimeNotCached recorded 16 samples, average = 232.9 (flags = 0x1)
 0    ... 
 48   ------------------O                                                       (1 = 6.2%) {0.0%}
 57   ------------------O                                                       (1 = 6.2%) {6.2%}
 68   ------------------O                                                       (1 = 6.2%) {12.5%}
-81   ------------------O                                                       (1 = 6.2%) {18.8%}
-96   ... 
+81   O                                                                         (0 = 0.0%) {18.8%}
+96   ------------------O                                                       (1 = 6.2%) {18.8%}
+114  O                                                                         (0 = 0.0%) {25.0%}
 135  ------------------O                                                       (1 = 6.2%) {25.0%}
 160  ------------------O                                                       (1 = 6.2%) {31.2%}
 190  ------------------------------------------------------------------------O (4 = 25.0%) {37.5%}
@@ -235,13 +238,14 @@ Histogram: Net.HttpJob.TotalTimeNotCached recorded 16 samples, average = 233.9 (
 752  ------------------O                                                       (1 = 6.2%) {93.8%}
 894  ... 
 
-Histogram: Net.HttpJob.TotalTimeSuccess recorded 16 samples, average = 233.9 (flags = 0x1)
+Histogram: Net.HttpJob.TotalTimeSuccess recorded 16 samples, average = 232.9 (flags = 0x1)
 0    ... 
 48   ------------------O                                                       (1 = 6.2%) {0.0%}
 57   ------------------O                                                       (1 = 6.2%) {6.2%}
 68   ------------------O                                                       (1 = 6.2%) {12.5%}
-81   ------------------O                                                       (1 = 6.2%) {18.8%}
-96   ... 
+81   O                                                                         (0 = 0.0%) {18.8%}
+96   ------------------O                                                       (1 = 6.2%) {18.8%}
+114  O                                                                         (0 = 0.0%) {25.0%}
 135  ------------------O                                                       (1 = 6.2%) {25.0%}
 160  ------------------O                                                       (1 = 6.2%) {31.2%}
 190  ------------------------------------------------------------------------O (4 = 25.0%) {37.5%}
@@ -264,7 +268,7 @@ Histogram: Net.HttpSocketType recorded 16 samples, average = 0.0 (flags = 0x1)
 0  ------------------------------------------------------------------------O (16 = 100.0%)
 1  ... 
 
-Histogram: Net.HttpTimeToFirstByte recorded 16 samples, average = 113.5 (flags = 0x1)
+Histogram: Net.HttpTimeToFirstByte recorded 16 samples, average = 113.2 (flags = 0x1)
 0    ... 
 41   ------------------------------------------------------------------------O (5 = 31.2%) {0.0%}
 50   ----------------------------------------------------------O               (4 = 25.0%) {31.2%}
@@ -379,19 +383,18 @@ Histogram: Net.SocketRequestTime_SSLForProxies recorded 0 samples (flags = 0x1)
 Histogram: Net.SocketRequestTime_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
 0 ... 
 
-Histogram: Net.SocketRequestTime_TCP recorded 16 samples, average = 52.0 (flags = 0x1)
+Histogram: Net.SocketRequestTime_TCP recorded 16 samples, average = 50.8 (flags = 0x1)
 0    ... 
-23   ------------------------------------------------------------------------O (7 = 43.8%) {0.0%}
-26   ---------------------O                                                    (2 = 12.5%) {43.8%}
+23   ------------------------------------------------------------------------O (6 = 37.5%) {0.0%}
+26   ------------------------------------O                                     (3 = 18.8%) {37.5%}
 29   ... 
-54   -------------------O                                                      (3 = 18.8%) {56.2%}
-61   ------O                                                                   (1 = 6.2%) {75.0%}
+54   ----------------------O                                                   (3 = 18.8%) {56.2%}
+61   -------O                                                                  (1 = 6.2%) {75.0%}
 69   O                                                                         (0 = 0.0%) {81.2%}
-78   ------O                                                                   (1 = 6.2%) {81.2%}
-88   ------O                                                                   (1 = 6.2%) {87.5%}
-100  ... 
-186  ------O                                                                   (1 = 6.2%) {93.8%}
-211  ... 
+78   --------------O                                                           (2 = 12.5%) {81.2%}
+88   ... 
+164  -------O                                                                  (1 = 6.2%) {93.8%}
+186  ... 
 
 Histogram: Net.SocketRequestTime_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
 0 ... 
@@ -430,33 +433,31 @@ Histogram: Net.SocketType_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
 Histogram: Net.SocketType_TCPforSOCKS recorded 0 samples (flags = 0x1)
 0 ... 
 
-Histogram: Net.TCP_Connection_Latency recorded 16 samples, average = 46.4 (flags = 0x1)
-0    ... 
-23   ------------------------------------------------------------------------O (7 = 43.8%) {0.0%}
-26   ---------------------O                                                    (2 = 12.5%) {43.8%}
-29   ... 
-54   -------------------O                                                      (3 = 18.8%) {56.2%}
-61   ------O                                                                   (1 = 6.2%) {75.0%}
-69   O                                                                         (0 = 0.0%) {81.2%}
-78   ------O                                                                   (1 = 6.2%) {81.2%}
-88   ------O                                                                   (1 = 6.2%) {87.5%}
-100  ------O                                                                   (1 = 6.2%) {93.8%}
-113  ... 
+Histogram: Net.TCP_Connection_Latency recorded 16 samples, average = 45.7 (flags = 0x1)
+0   ... 
+23  ------------------------------------------------------------------------O (6 = 37.5%) {0.0%}
+26  ------------------------------------O                                     (3 = 18.8%) {37.5%}
+29  ... 
+54  ----------------------O                                                   (3 = 18.8%) {56.2%}
+61  -------O                                                                  (1 = 6.2%) {75.0%}
+69  O                                                                         (0 = 0.0%) {81.2%}
+78  --------------O                                                           (2 = 12.5%) {81.2%}
+88  -------O                                                                  (1 = 6.2%) {93.8%}
+100 ... 
 
-Histogram: Net.TCP_Connection_Latency_IPv4_No_Race recorded 16 samples, average = 46.4 (flags = 0x1)
-0    ... 
-23   ------------------------------------------------------------------------O (7 = 43.8%) {0.0%}
-26   ---------------------O                                                    (2 = 12.5%) {43.8%}
-29   ... 
-54   -------------------O                                                      (3 = 18.8%) {56.2%}
-61   ------O                                                                   (1 = 6.2%) {75.0%}
-69   O                                                                         (0 = 0.0%) {81.2%}
-78   ------O                                                                   (1 = 6.2%) {81.2%}
-88   ------O                                                                   (1 = 6.2%) {87.5%}
-100  ------O                                                                   (1 = 6.2%) {93.8%}
-113  ... 
+Histogram: Net.TCP_Connection_Latency_IPv4_No_Race recorded 16 samples, average = 45.7 (flags = 0x1)
+0   ... 
+23  ------------------------------------------------------------------------O (6 = 37.5%) {0.0%}
+26  ------------------------------------O                                     (3 = 18.8%) {37.5%}
+29  ... 
+54  ----------------------O                                                   (3 = 18.8%) {56.2%}
+61  -------O                                                                  (1 = 6.2%) {75.0%}
+69  O                                                                         (0 = 0.0%) {81.2%}
+78  --------------O                                                           (2 = 12.5%) {81.2%}
+88  -------O                                                                  (1 = 6.2%) {93.8%}
+100 ... 
 
-Histogram: Net.Transaction_Latency_Total recorded 16 samples, average = 233.9 (flags = 0x1)
+Histogram: Net.Transaction_Latency_Total recorded 16 samples, average = 232.8 (flags = 0x1)
 0    ... 
 48   ------------------O                                                       (1 = 6.2%) {0.0%}
 54   ------------------O                                                       (1 = 6.2%) {6.2%}
@@ -476,7 +477,7 @@ Histogram: Net.Transaction_Latency_Total recorded 16 samples, average = 233.9 (f
 734  ------------------O                                                       (1 = 6.2%) {93.8%}
 831  ... 
 
-Histogram: Net.Transaction_Latency_Total_New_Connection recorded 16 samples, average = 233.9 (flags = 0x1)
+Histogram: Net.Transaction_Latency_Total_New_Connection recorded 16 samples, average = 232.8 (flags = 0x1)
 0    ... 
 48   ------------------O                                                       (1 = 6.2%) {0.0%}
 54   ------------------O                                                       (1 = 6.2%) {6.2%}
@@ -491,20 +492,18 @@ Histogram: Net.Transaction_Latency_Total_New_Connection recorded 16 samples, ave
 211  ------------------------------------------------------------------------O (4 = 25.0%) {50.0%}
 239  ... 
 307  ------------------O                                                       (1 = 6.2%) {75.0%}
-348  ------------------------------------O                                     (2 = 12.5%) {81.2%}
-394  [19281:19286:4665254732:FATAL:url_request_context.cc(121)] Check failed: false. Leaked 1 URLRequest(s). First URL: http://cdn.jsdelivr.net/ace/1.2.4/noconflict/mode-c_cpp.js.
-... 
+348  ------------------------------------O                   [4296:4301:179343763:FATAL:url_request_context.cc(121)] Check failed: false. Leaked 1 URLRequest(s). First URL: http://cdn.jsdelivr.net/ace/1.2.4/noconflict/mode-c_cpp.js.
+                  (2 = 12.5%) {81.2%}
+394  ... 
 734  ------------------O                                                       (1 = 6.2%) {93.8%}
 831  ... 
 
-Histogram: Net.Transaction_Latency_b recorded 16 samples, average = 181.1 (flags = 0x1)
+Histogram: Net.Transaction_Latency_b recorded 16 samples, average = 181.4 (flags = 0x1)
 0    ... 
-23   ------------------------------------------------------------O             (1 = 6.2%) {0.0%}
-26   ------------------------------------------------------------O             (1 = 6.2%) {6.2%}
-29   O                                                                         (0 = 0.0%) {12.5%}
-33   ---------------------------------------------O                            (1 = 6.2%) {12.5%}
-37   O                                                                         (0 = 0.0%) {18.8%}
-42   ------------------------------------O                                     (1 = 6.2%) {18.8%}
+26   ------------------------------------------------------------O             (1 = 6.2%) {0.0%}
+29   ---------------------------------------------O                            (1 = 6.2%) {6.2%}
+33   ... 
+42   ------------------------------------------------------------------------O (2 = 12.5%) {12.5%}
 48   ... 
 69   ------------------------------------O                                     (1 = 6.2%) {25.0%}
 78   ... 
@@ -528,9 +527,9 @@ Histogram: Net.Transaction_Latency_b recorded 16 samples, average = 181.1 (flags
 Received signal 6
  [0x000000531f1e] base::debug::StackTrace::StackTrace()
  [0x000000532418] base::debug::(anonymous namespace)::StackDumpSignalHandler()
- [0x7f92ca111340] <unknown>
- [0x7f92c913acc9] gsignal
- [0x7f92c913e0d8] abort
+ [0x7fb92792c340] <unknown>
+ [0x7fb926955cc9] gsignal
+ [0x7fb9269590d8] abort
  [0x00000056c349] base::debug::BreakDebugger()
  [0x0000005405cd] logging::LogMessage::~LogMessage()
  [0x000001c2eb7e] net::URLRequestContext::AssertNoURLRequests()
@@ -539,11 +538,11 @@ Received signal 6
  [0x000001ae3c1f] (anonymous namespace)::IOThread::CleanUp()
  [0x00000055eafd] base::Thread::ThreadMain()
  [0x00000055e361] base::(anonymous namespace)::ThreadFunc()
- [0x7f92ca109182] start_thread
- [0x7f92c91fe47d] clone
-  r8: 000000000204024d  r9: 00007f92c1356b5e r10: 0000000000000008 r11: 0000000000000202
- r12: 0000000000000000 r13: 00007f92c94c3868 r14: 00007f92c13589c0 r15: 00007f92c1358700
-  di: 0000000000004b51  si: 0000000000004b56  bp: 00007f92c9ce83c0  bx: 00007f92c1357650
-  dx: 0000000000000006  ax: 0000000000000000  cx: ffffffffffffffff  sp: 00007f92c1356df8
-  ip: 00007f92c913acc9 efl: 0000000000000202 cgf: 0000000000000033 erf: 0000000000000000
+ [0x7fb927924182] start_thread
+ [0x7fb926a1947d] clone
+  r8: 000000000204024d  r9: 00007fb91eb71b5a r10: 0000000000000008 r11: 0000000000000202
+ r12: 0000000000000000 r13: 00007fb926cde868 r14: 00007fb91eb739c0 r15: 00007fb91eb73700
+  di: 00000000000010c8  si: 00000000000010cd  bp: 00007fb9275033c0  bx: 00007fb91eb72650
+  dx: 0000000000000006  ax: 0000000000000000  cx: ffffffffffffffff  sp: 00007fb91eb71df8
+  ip: 00007fb926955cc9 efl: 0000000000000202 cgf: 0000000000000033 erf: 0000000000000000
  trp: 0000000000000000 msk: 0000000000000000 cr2: 0000000000000000

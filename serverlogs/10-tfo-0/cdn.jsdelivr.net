@@ -1,10 +1,10 @@
 HTTP Running : 8000  from  /home/mininet/Desktop/cs6250/cs6250-p4/myURLS/cdn.jsdelivr.net  with delay  0.0 s
-<socket._socketobject object at 0x7fd5c471bb40>
+<socket._socketobject object at 0x7fccea29bb40>
 /home/mininet/Desktop/cs6250/cs6250-p4/myURLS/cdn.jsdelivr.net/ace/1.2.4/noconflict/ace.js
 /ace/1.2.4/noconflict/ace.js
-10.0.0.36 - - [24/Feb/2018 16:58:47] "GET /ace/1.2.4/noconflict/ace.js HTTP/1.1" 200 -
-<socket._socketobject object at 0x7fd5c471bb40>
+10.0.0.39 - - [24/Feb/2018 17:29:18] "GET /ace/1.2.4/noconflict/ace.js HTTP/1.1" 200 -
+<socket._socketobject object at 0x7fccea29bb40>
 /home/mininet/Desktop/cs6250/cs6250-p4/myURLS/cdn.jsdelivr.net/ace/1.2.4/noconflict/ace.js
 /ace/1.2.4/noconflict/ace.js
-10.0.0.36 - - [24/Feb/2018 16:58:50] "GET /ace/1.2.4/noconflict/ace.js HTTP/1.1" 200 -
+10.0.0.39 - - [24/Feb/2018 17:29:25] "GET /ace/1.2.4/noconflict/ace.js HTTP/1.1" 200 -
 Killed

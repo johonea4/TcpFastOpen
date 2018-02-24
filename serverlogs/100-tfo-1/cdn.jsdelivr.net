@@ -1,18 +1,18 @@
 HTTP Running : 8000  from  /home/mininet/Desktop/cs6250/cs6250-p4/myURLS/cdn.jsdelivr.net  with delay  0.0 s
-<socket._socketobject object at 0x7fd5d528ab40>
+<socket._socketobject object at 0x7f01b9643b40>
 /home/mininet/Desktop/cs6250/cs6250-p4/myURLS/cdn.jsdelivr.net/ace/1.2.4/noconflict/ace.js
 /ace/1.2.4/noconflict/ace.js
-10.0.0.36 - - [24/Feb/2018 17:01:01] "GET /ace/1.2.4/noconflict/ace.js HTTP/1.1" 200 -
-<socket._socketobject object at 0x7fd5d528ab40>
+10.0.0.39 - - [24/Feb/2018 17:33:21] "GET /ace/1.2.4/noconflict/ace.js HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f01b9643b40>
 /home/mininet/Desktop/cs6250/cs6250-p4/myURLS/cdn.jsdelivr.net/ace/1.2.4/noconflict/mode-c_cpp.js
 /ace/1.2.4/noconflict/mode-c_cpp.js
-10.0.0.36 - - [24/Feb/2018 17:01:02] "GET /ace/1.2.4/noconflict/mode-c_cpp.js HTTP/1.1" 200 -
-<socket._socketobject object at 0x7fd5d528ab40>
+10.0.0.39 - - [24/Feb/2018 17:33:23] "GET /ace/1.2.4/noconflict/mode-c_cpp.js HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f01b9643b40>
 /home/mininet/Desktop/cs6250/cs6250-p4/myURLS/cdn.jsdelivr.net/ace/1.2.4/noconflict/ace.js
 /ace/1.2.4/noconflict/ace.js
-10.0.0.36 - - [24/Feb/2018 17:01:07] "GET /ace/1.2.4/noconflict/ace.js HTTP/1.1" 200 -
-<socket._socketobject object at 0x7fd5d528ab40>
+10.0.0.39 - - [24/Feb/2018 17:33:41] "GET /ace/1.2.4/noconflict/ace.js HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f01b9643b40>
 /home/mininet/Desktop/cs6250/cs6250-p4/myURLS/cdn.jsdelivr.net/ace/1.2.4/noconflict/mode-c_cpp.js
 /ace/1.2.4/noconflict/mode-c_cpp.js
-10.0.0.36 - - [24/Feb/2018 17:01:09] "GET /ace/1.2.4/noconflict/mode-c_cpp.js HTTP/1.1" 200 -
+10.0.0.39 - - [24/Feb/2018 17:33:43] "GET /ace/1.2.4/noconflict/mode-c_cpp.js HTTP/1.1" 200 -
 Killed
