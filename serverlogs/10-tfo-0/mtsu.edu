@@ -1,0 +1,18 @@
+HTTP Running : 8000  from  /home/mininet/Desktop/cs6250/cs6250-p4/myURLS/mtsu.edu  with delay  0.0 s
+<socket._socketobject object at 0x7fa794c86b40>
+/home/mininet/Desktop/cs6250/cs6250-p4/myURLS/mtsu.edu/programs/engineering/
+/home/mininet/Desktop/cs6250/cs6250-p4/myURLS/mtsu.edu/index.html/programs/engineering
+/index.html/programs/engineering
+trying hash: 12d13ab7836a2cf75ba5204903df633e
+10.0.0.36 - - [24/Feb/2018 16:58:45] code 404, message file not found
+10.0.0.36 - - [24/Feb/2018 16:58:45] "GET /programs/engineering/ HTTP/1.1" 404 -
+10.0.0.36 - - [24/Feb/2018 16:58:45] "GET /programs/engineering/ HTTP/1.1" 200 -
+<socket._socketobject object at 0x7fa794c86b40>
+/home/mininet/Desktop/cs6250/cs6250-p4/myURLS/mtsu.edu/programs/engineering/
+/home/mininet/Desktop/cs6250/cs6250-p4/myURLS/mtsu.edu/index.html/programs/engineering
+/index.html/programs/engineering
+trying hash: 12d13ab7836a2cf75ba5204903df633e
+10.0.0.36 - - [24/Feb/2018 16:58:48] code 404, message file not found
+10.0.0.36 - - [24/Feb/2018 16:58:48] "GET /programs/engineering/ HTTP/1.1" 404 -
+10.0.0.36 - - [24/Feb/2018 16:58:48] "GET /programs/engineering/ HTTP/1.1" 200 -
+Killed

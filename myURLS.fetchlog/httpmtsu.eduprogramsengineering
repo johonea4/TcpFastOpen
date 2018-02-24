@@ -1,0 +1,1173 @@
+[17668:17675:4491735803:ERROR:nss_util.cc(90)] Failed to create /home/mininet/.pki/nssdb directory.
+[17668:17675:4491736986:WARNING:proxy_service.cc(889)] PAC support disabled because there is no system implementation
+*** Failed creating file Internet/mtsu.edu/programs/engineering/ ***
+*** Renamed /_resources/scripts/fancyapps/lib/jquery.mousewheel-3.0.6.pack.js to /6bfbbba1a0a3c5319361751d7993167e ***
+*** Renamed /_resources/scripts/fancyapps/source/helpers/jquery.fancybox-buttons.css?v=1.0.5 to /9989b4885dcf50cb9127b8cb16336f11 ***
+*** Renamed /_resources/scripts/fancyapps/source/helpers/jquery.fancybox-buttons.js?v=1.0.5 to /b185db8508f31b71ed575798aeb60934 ***
+*** Renamed /_resources/scripts/fancyapps/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7 to /7ac4385d98cb2dfafe9d4baf0afaff00 ***
+*** Renamed /_resources/scripts/fancyapps/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7 to /c341d076edb2d4ecf82fcbad0b25fdb2 ***
+*** Renamed /_resources/scripts/fancyapps/source/helpers/jquery.fancybox-media.js?v=1.0.5 to /4238fce52d2b17b595acf2e931a0c288 ***
+[17668:17668:4492699436:INFO:CONSOLE(0)] "JQMIGRATE: Logging is active," source: http://mtsu.edu/_resources/js/jquery-migrate-1.2.1.js(21)
+[17668:17668:4492916191:INFO:CONSOLE(0)] "JQMIGRATE: jQuery.browser is deprecated," source: http://mtsu.edu/_resources/js/jquery-migrate-1.2.1.js(41)
+*** Renamed /collect?v=1&_v=j66&a=2045831682&t=pageview&_s=1&dl=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&ul=en-us&de=UTF-8&dt=Engineering%20Technology%20%7C%20Middle%20Tennessee%20State%20University&sd=16-bit&sr=1024x768&vp=785x600&je=0&fl=11.2%20r202&_u=YGBAgAQ~&jid=526051556&gjid=1732388202&cid=795453633.1519509359&tid=UA-5283804-9&_gid=2077578523.1519509359&gtm=G2lT3P5VX&z=740982226 to /b622a23eb1f8b488354fd49db8c3fcb8 ***
+*** Renamed /r/collect?t=dc&aip=1&_r=3&v=1&_v=j66&tid=UA-5283804-9&cid=795453633.1519509359&jid=526051556&gjid=1732388202&_gid=2077578523.1519509359&_u=YGBAgAQ~&z=2080117249 to /28cebd6fe2dff3da3ceb91e9cb773a64 ***
+*** Renamed /pagead/viewthroughconversion/1036821715/?random=1519509359344&cv=9&fst=1519509359344&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=376635471&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=16&u_his=1&u_tz=-300&u_java=false&u_nplug=7&u_nmime=47&gtm=G2l&frm=0&url=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&tiba=Engineering%20Technology%20%7C%20Middle%20Tennessee%20State%20University&async=1&rfmt=3&fmt=4 to /3dcdb3758f444d89e698391ba5f7703a ***
+*** Renamed /ads/user-lists/1036821715/?random=1519509359344&cv=9&fst=1519506000000&num=1&guid=ON&eid=376635471&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=16&u_his=1&u_tz=-300&u_java=false&u_nplug=7&u_nmime=47&frm=0&url=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&tiba=Engineering%20Technology%20%7C%20Middle%20Tennessee%20State%20University&async=1&fmt=3&cdct=2&is_vtc=1&random=1076745231&resp=GooglemKTybQhCsO&gtm=G2l&rmt_tld=0&ipr=y to /604ba5d54a56413fb4e685b1bb011a03 ***
+[17668:17668:4494883551:INFO:CONSOLE(0)] "JQMIGRATE: jQuery.fn.live() is deprecated," source: http://mtsu.edu/_resources/js/jquery-migrate-1.2.1.js(41)
+*** Renamed /_resources/ldp/.private_ldp/a26222/production/master/2bac2c5a-95c2-4def-b43c-9d249e233162.jpg to /e2b80439f1bcfa8b4da328cb74577306 ***
+*** Renamed /in.php?site_id=101022224&res=1024x768&lang=en&type=pageview&href=%2Fprograms%2Fengineering%2F&title=Engineering%20Technology%20%7C%20Middle%20Tennessee%20State%20University&jsuid=997260312&mime=js&x=0.27043490996584296 to /f88e14bf036e96b59cf224ce6162857b ***
+*** Renamed /tr/?id=691433037612974&ev=PageView&dl=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&rl=&if=false&ts=1519509361589&sw=1024&sh=768&v=2.8.12&r=stable&ec=0&o=12&it=1519509361148 to /046f3b747c912ca11c113d14e67fc87a ***
+*** Renamed /tr/?id=691433037612974&ev=Microdata&dl=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&rl=&if=false&ts=1519509363098&cd[Schema.org]=%5B%5D&cd[OpenGraph]=%7B%7D&cd[Meta]=%7B%22title%22%3A%22Engineering%20Technology%20%7C%20Middle%20Tennessee%20State%20University%22%7D&cd[DataLayer]=%5B%5D&sw=1024&sh=768&v=2.8.12&r=stable&ec=1&o=12&it=1519509361148 to /c94d7b9a241ed64356c1420fd991d5e8 ***
+*** Renamed /collect/?time=1519509367125&pid=26266&url=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&pageUrl=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&ref=&fmt=js&s=1 to /15b609942f7ef3c765b81d6f451f159c ***
+*** Renamed /_resources/ldp/.private_ldp/a26222/production/master/088c3fd8-3f52-4c79-8a43-18eb078eb7bc.jpg to /7299533fac08e1a17271244b5072310c ***
+<stats>
+c:tfo.supported:	0
+c:WebFrameActiveCount:	2
+t:tfo.page_load_timer:	10865
+c:URLRequestCount:	81
+c:disk_cache.miss:	82
+c:HttpNetworkTransaction.Count:	82
+c:tcp.connect:	32
+c:tcp.write_bytes:	39469
+c:tcp.read_bytes:	5534917
+c:disk_cache.hit:	1
+c:socket.backup_created:	1
+</stats>
+
+<resolves>
+strt (ms) | end (ms)  | len (ms)  | err | url:port -> address_list
+   59.203 |  3286.993 |  3227.790 |   0 | mtsu.edu:80 ->  161.45.157.30:80
+   59.224 |    59.224 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  275.045 |   275.045 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  275.062 |   275.062 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  275.574 |   275.574 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  275.587 |   275.587 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  276.030 |   276.030 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  276.041 |   276.041 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  276.521 |   276.521 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  276.534 |   276.534 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  276.828 |   276.828 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  276.840 |   276.840 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  277.158 |   277.158 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  278.613 |   278.613 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  278.909 |   278.909 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  279.121 |   279.121 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  279.330 |   279.330 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  279.804 |   319.266 |    39.462 |   0 | ajax.googleapis.com:443 ->  [2607:f8b0:4009:804::200a]:443 216.58.216.202:443 172.217.9.42:443 172.217.1.42:443 172.217.4.74:443 216.58.216.74:443 172.217.4.234:443 172.217.8.170:443 216.58.216.106:443 216.58.192.138:443 172.217.4.42:443 172.217.6.106:443 172.217.6.10:443 216.58.192.234:443 172.217.0.10:443 216.58.216.234:443 216.58.192.202:443
+  279.833 |   279.833 |     0.000 |   1 | ajax.googleapis.com:443 ->  nil
+  280.716 |   280.716 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  280.949 |   280.949 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  281.227 |   281.227 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  281.455 |   281.455 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  281.662 |   281.662 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  281.841 |   281.841 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  282.025 |   282.025 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  282.198 |   282.198 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  282.399 |   282.399 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  282.611 |   282.611 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  282.842 |   282.842 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  283.021 |   283.021 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  283.217 |   283.217 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  283.492 |   283.492 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  284.756 |   284.756 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  284.782 |   284.782 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  284.793 |   284.793 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  284.808 |   284.808 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  286.612 |   286.612 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  286.632 |   286.632 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  286.643 |   286.643 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  286.652 |   286.652 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  286.671 |   286.671 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  306.702 |   306.702 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  307.108 |   307.108 |     0.000 |   1 | mtsu.edu:80 ->  nil
+  319.258 |   319.258 |     0.000 |   1 | ajax.googleapis.com:443 ->  nil
+ 1236.754 |  1285.129 |    48.375 |   0 | www.googletagmanager.com:80 ->  [2607:f8b0:4009:803::2008]:80 172.217.8.168:80
+ 1236.775 |  1236.775 |     0.000 |   1 | www.googletagmanager.com:80 ->  nil
+ 1264.430 |  1264.430 |     0.000 |   1 | mtsu.edu:80 ->  nil
+ 1265.141 |  1265.141 |     0.000 |   1 | mtsu.edu:80 ->  nil
+ 1280.715 |  1280.715 |     0.000 |   1 | mtsu.edu:80 ->  nil
+ 1350.292 |  1350.292 |     0.000 |   1 | mtsu.edu:80 ->  nil
+ 1495.827 |  1730.893 |   235.066 |   0 | www.google-analytics.com:80 ->  [2607:f8b0:4009:803::200e]:80 172.217.8.174:80
+ 1495.874 |  1495.874 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
+ 1497.447 |  1542.725 |    45.278 |   0 | www.googleadservices.com:80 ->  172.217.9.34:80
+ 1497.469 |  1497.469 |     0.000 |   1 | www.googleadservices.com:80 ->  nil
+ 1730.888 |  1730.888 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
+ 1732.176 |  1779.245 |    47.069 |   0 | stats.g.doubleclick.net:443 ->  [2607:f8b0:4001:c1d::9c]:443 74.125.126.155:443 74.125.126.157:443 74.125.126.156:443 74.125.126.154:443
+ 1732.206 |  1732.206 |     0.000 |   1 | stats.g.doubleclick.net:443 ->  nil
+ 1779.240 |  1779.240 |     0.000 |   1 | stats.g.doubleclick.net:443 ->  nil
+ 1938.262 |  1990.788 |    52.526 |   0 | googleads.g.doubleclick.net:443 ->  [2607:f8b0:4009:802::2002]:443 172.217.9.66:443
+ 1938.288 |  1938.288 |     0.000 |   1 | googleads.g.doubleclick.net:443 ->  nil
+ 1990.781 |  1990.781 |     0.000 |   1 | googleads.g.doubleclick.net:443 ->  nil
+ 2295.777 |  2342.257 |    46.480 |   0 | www.google.com:443 ->  [2607:f8b0:4001:c1d::93]:443 74.125.126.99:443 74.125.126.103:443 74.125.126.147:443 74.125.126.106:443 74.125.126.104:443 74.125.126.105:443
+ 2295.811 |  2295.811 |     0.000 |   1 | www.google.com:443 ->  nil
+ 2342.252 |  2342.252 |     0.000 |   1 | www.google.com:443 ->  nil
+ 3171.518 |  3215.329 |    43.811 |   0 | i.ytimg.com:443 ->  [2607:f8b0:4009:803::200e]:443 216.58.216.206:443 172.217.8.174:443 172.217.1.46:443 216.58.192.174:443 216.58.192.142:443 216.58.216.110:443 172.217.9.78:443 172.217.4.110:443 172.217.4.78:443 172.217.9.46:443 172.217.8.206:443 172.217.4.46:443 216.58.192.206:443 172.217.6.110:443
+ 3171.545 |  3171.545 |     0.000 |   1 | i.ytimg.com:443 ->  nil
+ 3172.334 |  3172.334 |     0.000 |   1 | mtsu.edu:80 ->  nil
+ 3173.079 |  3173.079 |     0.000 |   1 | i.ytimg.com:443 ->  nil
+ 3173.107 |  3173.107 |     0.000 |   1 | i.ytimg.com:443 ->  nil
+ 3175.554 |  3175.554 |     0.000 |   1 | mtsu.edu:80 ->  nil
+ 3176.196 |  3176.196 |     0.000 |   1 | mtsu.edu:80 ->  nil
+ 3176.825 |  3176.825 |     0.000 |   1 | mtsu.edu:80 ->  nil
+ 3177.232 |  3177.232 |     0.000 |   1 | mtsu.edu:80 ->  nil
+ 3177.886 |  3177.886 |     0.000 |   1 | mtsu.edu:80 ->  nil
+ 3178.538 |  3178.538 |     0.000 |   1 | mtsu.edu:80 ->  nil
+ 3179.451 |  3227.969 |    48.518 |   0 | static.getclicky.com:80 ->  [2400:cb00:2048:1::6810:5cc1]:80 [2400:cb00:2048:1::6810:5ac1]:80 [2400:cb00:2048:1::6810:5dc1]:80 [2400:cb00:2048:1::6810:5bc1]:80 [2400:cb00:2048:1::6810:59c1]:80 104.16.91.193:80 104.16.89.193:80 104.16.92.193:80 104.16.93.193:80 104.16.90.193:80
+ 3179.470 |  3179.470 |     0.000 |   1 | static.getclicky.com:80 ->  nil
+ 3215.169 |  3215.169 |     0.000 |   1 | i.ytimg.com:443 ->  nil
+ 3215.324 |  3215.324 |     0.000 |   1 | i.ytimg.com:443 ->  nil
+ 3249.849 | 10267.236 |  7017.387 |   0 | w1.mtsu.edu:80 ->  161.45.157.30:80
+ 3249.870 |  3249.870 |     0.000 |   1 | w1.mtsu.edu:80 ->  nil
+ 3265.732 |  3265.732 |     0.000 |   1 | mtsu.edu:80 ->  nil
+ 3276.862 |  3527.521 |   250.659 |   0 | www.getrave.com:443 ->  69.25.199.41:443
+ 3276.863 |  3276.863 |     0.000 |   1 | www.getrave.com:443 ->  nil
+ 3279.433 |  3351.642 |    72.209 |   0 | mtweb.mtsu.edu:80 ->  161.45.157.17:80
+ 3279.453 |  3279.453 |     0.000 |   1 | mtweb.mtsu.edu:80 ->  nil
+ 3280.672 |  3280.672 |     0.000 |   1 | mtsu.edu:80 ->  nil
+ 3281.130 |  3281.130 |     0.000 |   1 | mtweb.mtsu.edu:80 ->  nil
+ 3281.147 |  3281.147 |     0.000 |   1 | mtweb.mtsu.edu:80 ->  nil
+ 3281.982 |  3281.982 |     0.000 |   1 | mtweb.mtsu.edu:80 ->  nil
+ 3281.998 |  3281.998 |     0.000 |   1 | mtweb.mtsu.edu:80 ->  nil
+ 3282.737 |  3282.737 |     0.000 |   1 | mtweb.mtsu.edu:80 ->  nil
+ 3282.764 |  3282.764 |     0.000 |   1 | mtweb.mtsu.edu:80 ->  nil
+ 3283.973 |  3283.973 |     0.000 |   1 | mtsu.edu:80 ->  nil
+ 3285.237 |  3285.237 |     0.000 |   1 | mtsu.edu:80 ->  nil
+ 3286.207 |  3286.207 |     0.000 |   1 | mtsu.edu:80 ->  nil
+ 3286.988 |  3286.988 |     0.000 |   1 | mtsu.edu:80 ->  nil
+ 3287.566 |  3287.566 |     0.000 |   1 | mtweb.mtsu.edu:80 ->  nil
+ 3287.581 |  3287.581 |     0.000 |   1 | mtweb.mtsu.edu:80 ->  nil
+ 3302.973 |  3739.499 |   436.526 |   0 | connect.facebook.net:80 ->  [2a03:2880:f027:18:face:b00c:0:3]:80 157.240.18.19:80
+ 3303.030 |  3303.030 |     0.000 |   1 | connect.facebook.net:80 ->  nil
+ 3309.200 |  3391.921 |    82.721 |   0 | snap.licdn.com:443 ->  [2600:1404:14:18e::25ea]:443 [2600:1404:14:19a::25ea]:443 23.36.68.219:443
+ 3309.233 |  3309.233 |     0.000 |   1 | snap.licdn.com:443 ->  nil
+ 3328.445 |  3328.445 |     0.000 |   1 | www.getrave.com:443 ->  nil
+ 3391.917 |  3391.917 |     0.000 |   1 | snap.licdn.com:443 ->  nil
+ 3427.746 |  8474.371 |  5046.625 |   0 | in.getclicky.com:80 ->  198.145.13.14:80 198.145.13.11:80 198.145.13.13:80
+ 3427.766 |  3427.766 |     0.000 |   1 | in.getclicky.com:80 ->  nil
+ 3527.507 |  3527.507 |     0.000 |   1 | www.getrave.com:443 ->  nil
+ 3527.520 |  3527.520 |     0.000 |   1 | www.getrave.com:443 ->  nil
+ 3739.493 |  3739.493 |     0.000 |   1 | connect.facebook.net:80 ->  nil
+ 3822.350 |  3822.413 |     0.063 |   0 | connect.facebook.net:443 ->  [2a03:2880:f027:18:face:b00c:0:3]:443 157.240.18.19:443
+ 3822.400 |  3822.400 |     0.000 |   1 | connect.facebook.net:443 ->  nil
+ 3822.406 |  3822.406 |     0.000 |   1 | connect.facebook.net:443 ->  nil
+ 4180.115 |  5688.726 |  1508.611 |   0 | www.facebook.com:443 ->  [2a03:2880:f127:283:face:b00c:0:25de]:443 157.240.18.35:443
+ 4180.144 |  4180.144 |     0.000 |   1 | www.facebook.com:443 ->  nil
+ 4224.336 |  4224.336 |     0.000 |   1 | www.facebook.com:443 ->  nil
+ 5688.720 |  5688.720 |     0.000 |   1 | www.facebook.com:443 ->  nil
+ 9712.110 |  9756.704 |    44.594 |   0 | bid.g.doubleclick.net:443 ->  74.125.126.156:443 74.125.126.155:443 74.125.126.157:443 74.125.126.154:443
+ 9712.139 |  9712.139 |     0.000 |   1 | bid.g.doubleclick.net:443 ->  nil
+ 9715.888 | 10255.814 |   539.926 |   0 | px.ads.linkedin.com:443 ->  [2620:109:c002::6cae:a0e]:443 108.174.10.14:443
+ 9715.921 |  9715.921 |     0.000 |   1 | px.ads.linkedin.com:443 ->  nil
+ 9756.700 |  9756.700 |     0.000 |   1 | bid.g.doubleclick.net:443 ->  nil
+ 9757.163 |  9757.163 |     0.000 |   1 | px.ads.linkedin.com:443 ->  nil
+10255.808 | 10255.808 |     0.000 |   1 | px.ads.linkedin.com:443 ->  nil
+10266.774 | 10266.774 |     0.000 |   1 | w1.mtsu.edu:80 ->  nil
+10267.190 | 10267.190 |     0.000 |   1 | w1.mtsu.edu:80 ->  nil
+</resolves>
+
+<transactions>
+strt (ms) | end (ms)  | len (ms)  | url
+  275.561 |   383.724 |   108.163 | http://mtsu.edu/_resources/css/full-base.css
+  276.509 |   385.568 |   109.059 | http://mtsu.edu/_resources/fonts/stylesheet.css
+  277.136 |   506.454 |   229.318 | http://mtsu.edu/_resources/fonts/glyphicons-halflings-regular.eot
+  276.020 |   607.588 |   331.568 | http://mtsu.edu/_resources/css/full-styles.css?ver=170118
+  276.818 |   617.323 |   340.505 | http://mtsu.edu/_resources/css/flexslider-full.css?ver=170118
+  279.796 |   654.775 |   374.979 | https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js
+  279.114 |   819.843 |   540.729 | http://mtsu.edu/_resources/fonts/glyphicons-halflings-regular.woff
+  278.901 |   819.878 |   540.977 | http://mtsu.edu/_resources/fonts/glyphicons-halflings-regular.ttf
+  275.029 |   885.076 |   610.047 | http://mtsu.edu/_resources/css/bootstrap.css
+  280.704 |   896.635 |   615.931 | http://mtsu.edu/_resources/js/jquery-migrate-1.2.1.js
+  279.317 |   911.226 |   631.909 | http://mtsu.edu/_resources/css/font-awesome.css
+  281.220 |   931.936 |   650.716 | http://mtsu.edu/_resources/scripts/js_faculty_asset.js
+  281.447 |   953.769 |   672.322 | http://mtsu.edu/_resources/js/megamenu_plugins.js
+  278.595 |   971.134 |   692.539 | http://mtsu.edu/_resources/fonts/glyphicons-halflings-regular.svg
+  281.835 |  1015.646 |   733.811 | http://mtsu.edu/_resources/scripts/lefthandnavigation.js
+  282.015 |  1016.141 |   734.126 | http://mtsu.edu/_resources/scripts/menu_jquery.js
+  281.655 |  1016.356 |   734.701 | http://mtsu.edu/_resources/js/megamenu.js
+  280.942 |  1016.565 |   735.623 | http://mtsu.edu/_resources/scripts/jquery.flexslider.js
+  282.379 |  1064.472 |   782.093 | http://mtsu.edu/_resources/js/jquery-stickytabs.js
+  282.604 |  1065.105 |   782.501 | http://mtsu.edu/_resources/scripts/fancyapps/lib/jquery.mousewheel-3.0.6.pack.js
+  283.015 |  1070.712 |   787.697 | http://mtsu.edu/_resources/scripts/fancyapps/source/jquery.fancybox.css?v=2.1.2
+  283.210 |  1115.539 |   832.329 | http://mtsu.edu/_resources/scripts/fancyapps/source/helpers/jquery.fancybox-buttons.css?v=1.0.5
+  283.475 |  1117.872 |   834.397 | http://mtsu.edu/_resources/scripts/fancyapps/source/helpers/jquery.fancybox-buttons.js?v=1.0.5
+  284.735 |  1124.836 |   840.101 | http://mtsu.edu/_resources/scripts/fancyapps/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7
+  282.192 |  1160.030 |   877.838 | http://mtsu.edu/_resources/js/bootstrap.min.js
+  284.804 |  1199.879 |   915.075 | http://mtsu.edu/_resources/scripts/fancyapps/source/videos.fancybox.js
+  284.777 |  1200.248 |   915.471 | http://mtsu.edu/_resources/scripts/fancyapps/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7
+  284.790 |  1200.566 |   915.776 | http://mtsu.edu/_resources/scripts/fancyapps/source/helpers/jquery.fancybox-media.js?v=1.0.5
+  286.600 |  1212.501 |   925.901 | http://mtsu.edu/_resources/root_images/MTSU-Wordmark-White.png
+  282.835 |  1225.387 |   942.552 | http://mtsu.edu/_resources/scripts/fancyapps/source/jquery.fancybox.js?v=2.1.3
+  286.639 |  1348.826 |  1062.187 | http://mtsu.edu/images/accordion/learn.jpg
+  286.629 |  1354.047 |  1067.418 | http://mtsu.edu/images/accordion/explore.jpg
+  286.649 |  1354.536 |  1067.887 | http://mtsu.edu/images/accordion/belong.jpg
+  286.662 |  1372.026 |  1085.364 | http://mtsu.edu/images/accordion/apply.jpg
+ 1264.415 |  1420.191 |   155.776 | http://mtsu.edu/_resources/root_images/logo-back.png
+ 1265.141 |  1423.264 |   158.123 | http://mtsu.edu/_resources/root_images/main-menu-full-back.png
+ 1236.737 |  1466.762 |   230.025 | http://www.googletagmanager.com/gtm.js?id=GTM-T3P5VX
+ 1280.669 |  1501.687 |   221.018 | http://mtsu.edu/_resources/fonts/OpenSans-Regular-webfont.woff
+ 1350.278 |  1532.082 |   181.804 | http://mtsu.edu/_resources/fonts/OpenSans-Bold-webfont.woff
+  306.686 |  1602.202 |  1295.516 | http://mtsu.edu/programs/engineering/images/SmallStory1.jpg
+  307.098 |  1605.547 |  1298.449 | http://mtsu.edu/programs/engineering/images/SmallStory2.jpg
+ 1495.810 |  1700.086 |   204.276 | http://www.google-analytics.com/analytics.js
+ 1730.872 |  1785.730 |    54.858 | http://www.google-analytics.com/collect?v=1&_v=j66&a=2045831682&t=pageview&_s=1&dl=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&ul=en-us&de=UTF-8&dt=Engineering%20Technology%20%7C%20Middle%20Tennessee%20State%20University&sd=16-bit&sr=1024x768&vp=785x600&je=0&fl=11.2%20r202&_u=YGBAgAQ~&jid=526051556&gjid=1732388202&cid=795453633.1519509359&tid=UA-5283804-9&_gid=2077578523.1519509359&gtm=G2lT3P5VX&z=740982226
+ 1497.431 |  1931.038 |   433.607 | http://www.googleadservices.com/pagead/conversion_async.js
+ 1732.162 |  2080.217 |   348.055 | https://stats.g.doubleclick.net/r/collect?t=dc&aip=1&_r=3&v=1&_v=j66&tid=UA-5283804-9&cid=795453633.1519509359&jid=526051556&gjid=1732388202&_gid=2077578523.1519509359&_u=YGBAgAQ~&z=2080117249
+ 1938.246 |  2293.959 |   355.713 | https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1036821715/?random=1519509359344&cv=9&fst=1519509359344&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=376635471&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=16&u_his=1&u_tz=-300&u_java=false&u_nplug=7&u_nmime=47&gtm=G2l&frm=0&url=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&tiba=Engineering%20Technology%20%7C%20Middle%20Tennessee%20State%20University&async=1&rfmt=3&fmt=4
+ 2295.763 |  2631.403 |   335.640 | https://www.google.com/ads/user-lists/1036821715/?random=1519509359344&cv=9&fst=1519506000000&num=1&guid=ON&eid=376635471&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=16&u_his=1&u_tz=-300&u_java=false&u_nplug=7&u_nmime=47&frm=0&url=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&tiba=Engineering%20Technology%20%7C%20Middle%20Tennessee%20State%20University&async=1&fmt=3&cdct=2&is_vtc=1&random=1076745231&resp=GooglemKTybQhCsO&gtm=G2l&rmt_tld=0&ipr=y
+   59.178 |  3174.259 |  3115.081 | http://mtsu.edu/programs/engineering/
+ 3176.814 |  3310.168 |   133.354 | http://mtsu.edu/_resources/root_images/YouTube-bottom.png
+ 3175.540 |  3312.927 |   137.387 | http://mtsu.edu/_resources/root_images/facebook-bottom.png
+ 3172.322 |  3313.705 |   141.383 | http://mtsu.edu/_resources/root_images/video_play.png
+ 3176.183 |  3314.387 |   138.204 | http://mtsu.edu/_resources/root_images/twitter-bottom.png
+ 3177.220 |  3315.018 |   137.798 | http://mtsu.edu/_resources/root_images/instagram-bottom.png
+ 3177.873 |  3315.693 |   137.820 | http://mtsu.edu/_resources/root_images/TN-eCampus.png
+ 3179.440 |  3316.129 |   136.689 | http://static.getclicky.com/js
+ 3265.718 |  3361.628 |    95.910 | http://mtsu.edu/_resources/images/arrows.png
+ 3178.526 |  3363.765 |   185.239 | http://mtsu.edu/_resources/root_images/pathway.png
+ 3280.655 |  3370.627 |    89.972 | http://mtsu.edu/faculty-information/images/no-photo.png
+ 3171.504 |  3629.407 |   457.903 | https://i.ytimg.com/vi/IymUUto7mD0/sddefault.jpg
+ 3309.185 |  3659.256 |   350.071 | https://snap.licdn.com/li.lms-analytics/insight.min.js
+ 3285.214 |  3666.222 |   381.008 | http://mtsu.edu/empimages/ksalman.jpg
+ 3302.938 |  3719.977 |   417.039 | http://connect.facebook.net/en_US/fbevents.js
+ 3739.478 |  3822.220 |    82.742 | http://connect.facebook.net/signals/config/691433037612974?v=2.8.12&r=stable
+ 3283.957 |  3836.893 |   552.936 | http://mtsu.edu/empimages/chperry.jpg
+ 3276.862 |  4009.514 |   732.652 | https://www.getrave.com/rss/mtsu/channel1
+ 3822.337 |  4162.503 |   340.166 | https://connect.facebook.net/signals/config/691433037612974?v=2.8.12&r=stable
+ 3173.065 |  4195.115 |  1022.050 | https://i.ytimg.com/vi/TXVKsH6gWcA/sddefault.jpg
+ 4180.100 |  4440.245 |   260.145 | https://www.facebook.com/tr/?id=691433037612974&ev=PageView&dl=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&rl=&if=false&ts=1519509361589&sw=1024&sh=768&v=2.8.12&r=stable&ec=0&o=12&it=1519509361148
+ 3249.835 |  4508.411 |  1258.576 | http://w1.mtsu.edu/_resources/ldp/.private_ldp/a26222/production/master/2bac2c5a-95c2-4def-b43c-9d249e233162.jpg
+ 3281.119 |  4553.298 |  1272.179 | http://mtweb.mtsu.edu/ccantrell/sforouda.jpg
+ 3279.419 |  4553.510 |  1274.091 | http://mtweb.mtsu.edu/ccantrell/wwboles.jpg
+ 3286.192 |  4588.748 |  1302.556 | http://mtsu.edu/empimages/ssbenaty.jpg
+ 3286.975 |  4916.713 |  1629.738 | http://mtsu.edu/empimages/sridhara.jpg
+ 5688.703 |  5743.818 |    55.115 | https://www.facebook.com/tr/?id=691433037612974&ev=Microdata&dl=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&rl=&if=false&ts=1519509363098&cd[Schema.org]=%5B%5D&cd[OpenGraph]=%7B%7D&cd[Meta]=%7B%22title%22%3A%22Engineering%20Technology%20%7C%20Middle%20Tennessee%20State%20University%22%7D&cd[DataLayer]=%5B%5D&sw=1024&sh=768&v=2.8.12&r=stable&ec=1&o=12&it=1519509361148
+ 3281.972 |  5854.005 |  2572.033 | http://mtweb.mtsu.edu/ccantrell/vkhiabani.jpg
+ 3282.722 |  6915.003 |  3632.281 | http://mtweb.mtsu.edu/ccantrell/anasab.jpg
+ 3427.732 |  8715.271 |  5287.539 | http://in.getclicky.com/in.php?site_id=101022224&res=1024x768&lang=en&type=pageview&href=%2Fprograms%2Fengineering%2F&title=Engineering%20Technology%20%7C%20Middle%20Tennessee%20State%20University&jsuid=997260312&mime=js&x=0.27043490996584296
+ 3287.555 |  9684.662 |  6397.107 | http://mtweb.mtsu.edu/ccantrell/rataylor.jpg
+ 9712.095 | 10135.394 |   423.299 | https://bid.g.doubleclick.net/xbbe/pixel?d=KAE
+ 9715.874 | 10255.664 |   539.790 | https://px.ads.linkedin.com/collect/?time=1519509367125&pid=26266&url=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&pageUrl=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&ref=&fmt=js&s=1
+10255.795 | 10357.563 |   101.768 | https://px.ads.linkedin.com/collect/?time=1519509367125&pid=26266&url=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&pageUrl=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&ref=&fmt=js&s=1&cookiesTest=true
+10266.760 | 10875.537 |   608.777 | http://w1.mtsu.edu/_resources/ldp/.private_ldp/a26222/production/master/088c3fd8-3f52-4c79-8a43-18eb078eb7bc.jpg
+</transactions>
+
+<responses>
+status       | mime_type       | charset | url -> redirect_url
+          OK |        text/css |         | http://mtsu.edu/_resources/css/full-base.css -> nil
+          OK |        text/css |         | http://mtsu.edu/_resources/fonts/stylesheet.css -> nil
+          OK | application/vnd.ms-fontobject |         | http://mtsu.edu/_resources/fonts/glyphicons-halflings-regular.eot -> nil
+          OK |        text/css |         | http://mtsu.edu/_resources/css/full-styles.css?ver=170118 -> nil
+          OK |        text/css |         | http://mtsu.edu/_resources/css/flexslider-full.css?ver=170118 -> nil
+          OK | text/javascript |   utf-8 | https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js -> nil
+          OK |      text/plain |   utf-8 | http://mtsu.edu/_resources/fonts/glyphicons-halflings-regular.woff -> nil
+          OK |      text/plain |   utf-8 | http://mtsu.edu/_resources/fonts/glyphicons-halflings-regular.ttf -> nil
+          OK |        text/css |         | http://mtsu.edu/_resources/css/bootstrap.css -> nil
+          OK | text/javascript |         | http://mtsu.edu/_resources/js/jquery-migrate-1.2.1.js -> nil
+          OK |        text/css |         | http://mtsu.edu/_resources/css/font-awesome.css -> nil
+          OK | text/javascript |         | http://mtsu.edu/_resources/scripts/js_faculty_asset.js -> nil
+          OK | text/javascript |         | http://mtsu.edu/_resources/js/megamenu_plugins.js -> nil
+          OK |   image/svg+xml |         | http://mtsu.edu/_resources/fonts/glyphicons-halflings-regular.svg -> nil
+          OK | text/javascript |         | http://mtsu.edu/_resources/scripts/lefthandnavigation.js -> nil
+          OK | text/javascript |         | http://mtsu.edu/_resources/scripts/menu_jquery.js -> nil
+          OK | text/javascript |         | http://mtsu.edu/_resources/js/megamenu.js -> nil
+          OK | text/javascript |         | http://mtsu.edu/_resources/scripts/jquery.flexslider.js -> nil
+          OK | text/javascript |         | http://mtsu.edu/_resources/js/jquery-stickytabs.js -> nil
+          OK | text/javascript |         | http://mtsu.edu/_resources/scripts/fancyapps/lib/jquery.mousewheel-3.0.6.pack.js -> nil
+          OK |        text/css |         | http://mtsu.edu/_resources/scripts/fancyapps/source/jquery.fancybox.css?v=2.1.2 -> nil
+          OK |        text/css |         | http://mtsu.edu/_resources/scripts/fancyapps/source/helpers/jquery.fancybox-buttons.css?v=1.0.5 -> nil
+          OK | text/javascript |         | http://mtsu.edu/_resources/scripts/fancyapps/source/helpers/jquery.fancybox-buttons.js?v=1.0.5 -> nil
+          OK |        text/css |         | http://mtsu.edu/_resources/scripts/fancyapps/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7 -> nil
+          OK | text/javascript |         | http://mtsu.edu/_resources/js/bootstrap.min.js -> nil
+          OK | text/javascript |         | http://mtsu.edu/_resources/scripts/fancyapps/source/videos.fancybox.js -> nil
+          OK | text/javascript |         | http://mtsu.edu/_resources/scripts/fancyapps/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7 -> nil
+          OK | text/javascript |         | http://mtsu.edu/_resources/scripts/fancyapps/source/helpers/jquery.fancybox-media.js?v=1.0.5 -> nil
+          OK |       image/png |         | http://mtsu.edu/_resources/root_images/MTSU-Wordmark-White.png -> nil
+          OK | text/javascript |         | http://mtsu.edu/_resources/scripts/fancyapps/source/jquery.fancybox.js?v=2.1.3 -> nil
+          OK |      image/jpeg |         | http://mtsu.edu/images/accordion/learn.jpg -> nil
+          OK |      image/jpeg |         | http://mtsu.edu/images/accordion/explore.jpg -> nil
+          OK |      image/jpeg |         | http://mtsu.edu/images/accordion/belong.jpg -> nil
+          OK |      image/jpeg |         | http://mtsu.edu/images/accordion/apply.jpg -> nil
+          OK |       image/png |         | http://mtsu.edu/_resources/root_images/logo-back.png -> nil
+          OK |       image/png |         | http://mtsu.edu/_resources/root_images/main-menu-full-back.png -> nil
+          OK | application/javascript |   utf-8 | http://www.googletagmanager.com/gtm.js?id=GTM-T3P5VX -> nil
+          OK |      text/plain |   utf-8 | http://mtsu.edu/_resources/fonts/OpenSans-Regular-webfont.woff -> nil
+          OK |      text/plain |   utf-8 | http://mtsu.edu/_resources/fonts/OpenSans-Bold-webfont.woff -> nil
+          OK |      image/jpeg |         | http://mtsu.edu/programs/engineering/images/SmallStory1.jpg -> nil
+          OK |      image/jpeg |         | http://mtsu.edu/programs/engineering/images/SmallStory2.jpg -> nil
+          OK | text/javascript |         | http://www.google-analytics.com/analytics.js -> nil
+          OK |       image/gif |         | http://www.google-analytics.com/collect?v=1&_v=j66&a=2045831682&t=pageview&_s=1&dl=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&ul=en-us&de=UTF-8&dt=Engineering%20Technology%20%7C%20Middle%20Tennessee%20State%20University&sd=16-bit&sr=1024x768&vp=785x600&je=0&fl=11.2%20r202&_u=YGBAgAQ~&jid=526051556&gjid=1732388202&cid=795453633.1519509359&tid=UA-5283804-9&_gid=2077578523.1519509359&gtm=G2lT3P5VX&z=740982226 -> nil
+          OK | text/javascript |   utf-8 | http://www.googleadservices.com/pagead/conversion_async.js -> nil
+          OK |       image/gif |         | https://stats.g.doubleclick.net/r/collect?t=dc&aip=1&_r=3&v=1&_v=j66&tid=UA-5283804-9&cid=795453633.1519509359&jid=526051556&gjid=1732388202&_gid=2077578523.1519509359&_u=YGBAgAQ~&z=2080117249 -> nil
+          OK | text/javascript |   utf-8 | https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1036821715/?random=1519509359344&cv=9&fst=1519509359344&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=376635471&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=16&u_his=1&u_tz=-300&u_java=false&u_nplug=7&u_nmime=47&gtm=G2l&frm=0&url=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&tiba=Engineering%20Technology%20%7C%20Middle%20Tennessee%20State%20University&async=1&rfmt=3&fmt=4 -> nil
+          OK |       image/gif |         | https://www.google.com/ads/user-lists/1036821715/?random=1519509359344&cv=9&fst=1519506000000&num=1&guid=ON&eid=376635471&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=16&u_his=1&u_tz=-300&u_java=false&u_nplug=7&u_nmime=47&frm=0&url=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&tiba=Engineering%20Technology%20%7C%20Middle%20Tennessee%20State%20University&async=1&fmt=3&cdct=2&is_vtc=1&random=1076745231&resp=GooglemKTybQhCsO&gtm=G2l&rmt_tld=0&ipr=y -> nil
+          OK |       text/html |   utf-8 | http://mtsu.edu/programs/engineering/ -> nil
+          OK |       image/png |         | http://mtsu.edu/_resources/root_images/YouTube-bottom.png -> nil
+          OK |       image/png |         | http://mtsu.edu/_resources/root_images/facebook-bottom.png -> nil
+          OK |       image/png |         | http://mtsu.edu/_resources/root_images/video_play.png -> nil
+          OK |       image/png |         | http://mtsu.edu/_resources/root_images/twitter-bottom.png -> nil
+          OK |       image/png |         | http://mtsu.edu/_resources/root_images/instagram-bottom.png -> nil
+          OK |       image/png |         | http://mtsu.edu/_resources/root_images/TN-eCampus.png -> nil
+          OK | text/javascript |   utf-8 | http://static.getclicky.com/js -> nil
+          OK |       image/png |         | http://mtsu.edu/_resources/images/arrows.png -> nil
+          OK |       image/png |         | http://mtsu.edu/_resources/root_images/pathway.png -> nil
+          OK |       image/png |         | http://mtsu.edu/faculty-information/images/no-photo.png -> nil
+          OK |      image/jpeg |         | https://i.ytimg.com/vi/IymUUto7mD0/sddefault.jpg -> nil
+          OK | application/x-javascript |   utf-8 | https://snap.licdn.com/li.lms-analytics/insight.min.js -> nil
+          OK |      image/jpeg |         | http://mtsu.edu/empimages/ksalman.jpg -> nil
+          OK | application/x-javascript |   utf-8 | http://connect.facebook.net/en_US/fbevents.js -> nil
+       Found |       text/html |   utf-8 | http://connect.facebook.net/signals/config/691433037612974?v=2.8.12&r=stable -> https://connect.facebook.net/signals/config/691433037612974?v=2.8.12&r=stable
+          OK |      image/jpeg |         | http://mtsu.edu/empimages/chperry.jpg -> nil
+          OK | application/rss+xml |         | https://www.getrave.com/rss/mtsu/channel1 -> nil
+          OK | application/x-javascript |   utf-8 | https://connect.facebook.net/signals/config/691433037612974?v=2.8.12&r=stable -> nil
+          OK |      image/jpeg |         | https://i.ytimg.com/vi/TXVKsH6gWcA/sddefault.jpg -> nil
+          OK |       image/gif |         | https://www.facebook.com/tr/?id=691433037612974&ev=PageView&dl=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&rl=&if=false&ts=1519509361589&sw=1024&sh=768&v=2.8.12&r=stable&ec=0&o=12&it=1519509361148 -> nil
+          OK |      image/jpeg |         | http://w1.mtsu.edu/_resources/ldp/.private_ldp/a26222/production/master/2bac2c5a-95c2-4def-b43c-9d249e233162.jpg -> nil
+          OK |      image/jpeg |         | http://mtweb.mtsu.edu/ccantrell/sforouda.jpg -> nil
+          OK |      image/jpeg |         | http://mtweb.mtsu.edu/ccantrell/wwboles.jpg -> nil
+          OK |      image/jpeg |         | http://mtsu.edu/empimages/ssbenaty.jpg -> nil
+          OK |      image/jpeg |         | http://mtsu.edu/empimages/sridhara.jpg -> nil
+          OK |       image/gif |         | https://www.facebook.com/tr/?id=691433037612974&ev=Microdata&dl=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&rl=&if=false&ts=1519509363098&cd[Schema.org]=%5B%5D&cd[OpenGraph]=%7B%7D&cd[Meta]=%7B%22title%22%3A%22Engineering%20Technology%20%7C%20Middle%20Tennessee%20State%20University%22%7D&cd[DataLayer]=%5B%5D&sw=1024&sh=768&v=2.8.12&r=stable&ec=1&o=12&it=1519509361148 -> nil
+          OK |      image/jpeg |         | http://mtweb.mtsu.edu/ccantrell/vkhiabani.jpg -> nil
+          OK |      image/jpeg |         | http://mtweb.mtsu.edu/ccantrell/anasab.jpg -> nil
+          OK | text/javascript |   utf-8 | http://in.getclicky.com/in.php?site_id=101022224&res=1024x768&lang=en&type=pageview&href=%2Fprograms%2Fengineering%2F&title=Engineering%20Technology%20%7C%20Middle%20Tennessee%20State%20University&jsuid=997260312&mime=js&x=0.27043490996584296 -> nil
+          OK |      image/jpeg |         | http://mtweb.mtsu.edu/ccantrell/rataylor.jpg -> nil
+          OK |       text/html |   utf-8 | https://bid.g.doubleclick.net/xbbe/pixel?d=KAE -> nil
+       Found |                 |         | https://px.ads.linkedin.com/collect/?time=1519509367125&pid=26266&url=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&pageUrl=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&ref=&fmt=js&s=1 -> /collect/?time=1519509367125&pid=26266&url=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&pageUrl=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&ref=&fmt=js&s=1&cookiesTest=true
+          OK | application/javascript |         | https://px.ads.linkedin.com/collect/?time=1519509367125&pid=26266&url=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&pageUrl=http%3A%2F%2Fmtsu.edu%2Fprograms%2Fengineering%2F&ref=&fmt=js&s=1&cookiesTest=true -> nil
+          OK |      image/jpeg |         | http://w1.mtsu.edu/_resources/ldp/.private_ldp/a26222/production/master/088c3fd8-3f52-4c79-8a43-18eb078eb7bc.jpg -> nil
+</responses>
+
+<queries>
+Collections of histograms for DNS.
+Histogram: AsyncDNS.HaveDnsConfig recorded 19 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (19 = 100.0%)
+1  ... 
+
+Histogram: DNS.AttemptDiscarded recorded 19 samples, average = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (19 = 100.0%) {0.0%}
+2  ... 
+
+Histogram: DNS.AttemptSuccess recorded 19 samples, average = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (19 = 100.0%) {0.0%}
+2  ... 
+
+Histogram: DNS.AttemptSuccessDuration recorded 19 samples, average = 314.3 (flags = 0x1)
+0     ... 
+37    --------------O                                                           (2 = 10.5%) {0.0%}
+43    ------------------------------------------------------------------------O (10 = 52.6%) {10.5%}
+50    --------------O                                                           (2 = 10.5%) {63.2%}
+58    -------O                                                                  (1 = 5.3%) {73.7%}
+67    --------------O                                                           (2 = 10.5%) {78.9%}
+77    -------O                                                                  (1 = 5.3%) {89.5%}
+89    ... 
+4904  -------O                                                                  (1 = 5.3%) {94.7%}
+5660  ... 
+
+Histogram: DNS.AttemptTimeSavedByRetry recorded 19 samples, average = 4495177.5 (flags = 0x1)
+0        ... 
+3600000  ------------------------------------------------------------------------O (19 = 100.0%) {0.0%}
+
+Histogram: DNS.JobQueueTime recorded 19 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (19 = 100.0%)
+1  ... 
+
+Histogram: DNS.JobQueueTimeAfterChange recorded 19 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (19 = 100.0%)
+1  ... 
+
+Histogram: DNS.JobQueueTimeAfterChange_LOWEST recorded 19 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (19 = 100.0%)
+1  ... 
+
+Histogram: DNS.JobQueueTime_LOWEST recorded 19 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (19 = 100.0%)
+1  ... 
+
+Histogram: DNS.ResolveCategory recorded 19 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (19 = 100.0%)
+1  ... 
+
+Histogram: DNS.ResolveSuccess recorded 19 samples, average = 314.3 (flags = 0x1)
+0     ... 
+37    --------------O                                                           (2 = 10.5%) {0.0%}
+43    ------------------------------------------------------------------------O (10 = 52.6%) {10.5%}
+50    --------------O                                                           (2 = 10.5%) {63.2%}
+58    -------O                                                                  (1 = 5.3%) {73.7%}
+67    --------------O                                                           (2 = 10.5%) {78.9%}
+77    -------O                                                                  (1 = 5.3%) {89.5%}
+89    ... 
+4904  -------O                                                                  (1 = 5.3%) {94.7%}
+5660  ... 
+
+Histogram: DNS.ResolveSuccess_FAMILY_UNSPEC recorded 19 samples, average = 314.3 (flags = 0x1)
+0     ... 
+37    --------------O                                                           (2 = 10.5%) {0.0%}
+43    ------------------------------------------------------------------------O (10 = 52.6%) {10.5%}
+50    --------------O                                                           (2 = 10.5%) {63.2%}
+58    -------O                                                                  (1 = 5.3%) {73.7%}
+67    --------------O                                                           (2 = 10.5%) {78.9%}
+77    -------O                                                                  (1 = 5.3%) {89.5%}
+89    ... 
+4904  -------O                                                                  (1 = 5.3%) {94.7%}
+5660  ... 
+
+Histogram: DNS.TotalTime recorded 32 samples, average = 196.4 (flags = 0x1)
+0     ------------------------------------------------------------------------O (8 = 25.0%)
+1     ... 
+37    -----O                                                                    (3 = 9.4%) {25.0%}
+43    ------------------O                                                       (10 = 31.2%) {34.4%}
+50    ----O                                                                     (2 = 6.2%) {65.6%}
+58    ----O                                                                     (2 = 6.2%) {71.9%}
+67    ---------O                                                                (5 = 15.6%) {78.1%}
+77    --O                                                                       (1 = 3.1%) {93.8%}
+89    ... 
+4904  --O                                                                       (1 = 3.1%) {96.9%}
+5660  ... 
+
+
+Collections of histograms for Net.
+Histogram: Net.CertVerifier_Job_Latency recorded 11 samples, average = 1.6 (flags = 0x1)
+0   ------------------------------------------------------------------------O (7 = 63.6%)
+1   ---------------------O                                                    (2 = 18.2%) {63.6%}
+2   ... 
+4   ----------O                                                               (1 = 9.1%) {81.8%}
+5   ... 
+12  -----O                                                                    (1 = 9.1%) {90.9%}
+14  ... 
+
+Histogram: Net.Compress.NoProxy.BytesAfterCompression recorded 6 samples, average = 29920.5 (flags = 0x1)
+0      ------------------------------------------------------------------------O (1 = 16.7%)
+500    ... 
+15164  ------------------------------------------------------------------------O (1 = 16.7%) {16.7%}
+16387  ------------------------------------------------------------------------O (1 = 16.7%) {33.3%}
+17709  ... 
+35595  ------------------------------------------------------------------------O (1 = 16.7%) {50.0%}
+38466  ------------------------------------------------------------------------O (1 = 16.7%) {66.7%}
+41569  ... 
+66207  ------------------------------------------------------------------------O (1 = 16.7%) {83.3%}
+71547  ... 
+
+Histogram: Net.Compress.NoProxy.BytesBeforeCompression recorded 6 samples, average = 10740.0 (flags = 0x1)
+0      ------------------------------------------------------------------------O (1 = 16.7%)
+500    ... 
+5532   ------------------------------------------------------------------------O (1 = 16.7%) {16.7%}
+5978   ------------------------------------------------------------------------O (1 = 16.7%) {33.3%}
+6460   ... 
+12016  ------------------------------------------------------------------------O (1 = 16.7%) {50.0%}
+12985  O                                                                         (0 = 0.0%) {66.7%}
+14032  ------------------------------------------------------------------------O (1 = 16.7%) {66.7%}
+15164  ... 
+24152  ------------------------------------------------------------------------O (1 = 16.7%) {83.3%}
+26100  ... 
+
+Histogram: Net.Compress.NoProxy.ShouldHaveBeenCompressed recorded 30 samples, average = 31751.7 (flags = 0x1)
+0       ... 
+682     ------------------------------------------------O                         (2 = 6.7%) {0.0%}
+737     ... 
+860     ------------------------O                                                 (1 = 3.3%) {6.7%}
+929     ------------------------O                                                 (1 = 3.3%) {10.0%}
+1004    ... 
+1370    ------------------------O                                                 (1 = 3.3%) {13.3%}
+1480    ... 
+2018    ------------------------O                                                 (1 = 3.3%) {16.7%}
+2181    ------------------------O                                                 (1 = 3.3%) {20.0%}
+2357    ------------------------O                                                 (1 = 3.3%) {23.3%}
+2547    ... 
+2974    ------------------------------------------------O                         (2 = 6.7%) {26.7%}
+3214    ... 
+3753    ------------------------O                                                 (1 = 3.3%) {33.3%}
+4056    ------------------------------------------------O                         (2 = 6.7%) {36.7%}
+4383    ... 
+5119    ------------------------O                                                 (1 = 3.3%) {43.3%}
+5532    ... 
+8810    ------------------------O                                                 (1 = 3.3%) {46.7%}
+9521    ... 
+12985   ------------------------------------------------O                         (2 = 6.7%) {50.0%}
+14032   ... 
+16387   ------------------------O                                                 (1 = 3.3%) {56.7%}
+17709   ... 
+22349   ------------------------------------------------------------------------O (3 = 10.0%) {60.0%}
+24152   ... 
+35595   ------------------------O                                                 (1 = 3.3%) {70.0%}
+38466   ------------------------O                                                 (1 = 3.3%) {73.3%}
+41569   ------------------------O                                                 (1 = 3.3%) {76.7%}
+44922   ------------------------------------------------O                         (2 = 6.7%) {80.0%}
+48545   ... 
+56692   ------------------------O                                                 (1 = 3.3%) {86.7%}
+61265   ... 
+105446  ------------------------O                                                 (1 = 3.3%) {90.0%}
+113951  ... 
+143809  ------------------------O                                                 (1 = 3.3%) {93.3%}
+155408  ... 
+247516  ------------------------O                                                 (1 = 3.3%) {96.7%}
+267480  ... 
+
+Histogram: Net.Compress.SSL.BytesAfterCompression recorded 5 samples, average = 35419.6 (flags = 0x1)
+0      ------------------------------------------------------------------------O (1 = 20.0%)
+500    ... 
+1480   ------------------------------------------------------------------------O (1 = 20.0%) {20.0%}
+1599   ... 
+22349  ------------------------------------------------------------------------O (1 = 20.0%) {40.0%}
+24152  ... 
+56692  ------------------------------------------------------------------------O (1 = 20.0%) {60.0%}
+61265  ... 
+90293  ------------------------------------------------------------------------O (1 = 20.0%) {80.0%}
+97576  ... 
+
+Histogram: Net.Compress.SSL.BytesBeforeCompression recorded 5 samples, average = 11482.8 (flags = 0x1)
+0      ------------------------------------------------------------------------O (1 = 20.0%)
+500    ... 
+860    ------------------------------------------------------------------------O (1 = 20.0%) {20.0%}
+929    ... 
+7544   ------------------------------------------------------------------------O (1 = 20.0%) {40.0%}
+8152   ... 
+15164  ------------------------------------------------------------------------O (1 = 20.0%) {60.0%}
+16387  ... 
+32938  ------------------------------------------------------------------------O (1 = 20.0%) {80.0%}
+35595  ... 
+
+Histogram: Net.Compress.SSL.ShouldHaveBeenCompressed recorded 1 samples, average = 535.0 (flags = 0x1)
+0    O                                                                         (0 = 0.0%)
+500  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+540  ... 
+
+Histogram: Net.ConnectionTypeCount3 recorded 87 samples, average = 4.3 (flags = 0x1)
+0   ------------------------------------------------------------------------O (32 = 36.8%)
+1   ---------------------------O                                              (12 = 13.8%) {36.8%}
+2   ... 
+7   ----------------------------------------------------------------------O   (31 = 35.6%) {50.6%}
+8   ... 
+12  ---------------------------O                                              (12 = 13.8%) {86.2%}
+13  ... 
+
+Histogram: Net.ConnectionUsedSSLVersionFallback recorded 14 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (14 = 100.0%)
+1  ... 
+
+Histogram: Net.DNS_Resolution_And_TCP_Connection_Latency2 recorded 32 samples, average = 284.4 (flags = 0x1)
+0     ... 
+42    --------------------------------O                                         (4 = 12.5%) {0.0%}
+48    ------------------------O                                                 (3 = 9.4%) {12.5%}
+54    ... 
+78    ----------------O                                                         (2 = 6.2%) {21.9%}
+88    ----------------------------------------O                                 (5 = 15.6%) {28.1%}
+100   ----------------------------------------O                                 (5 = 15.6%) {43.8%}
+113   ------------------------------------------------------------------------O (9 = 28.1%) {59.4%}
+128   --------O                                                                 (1 = 3.1%) {87.5%}
+145   --------O                                                                 (1 = 3.1%) {90.6%}
+164   ... 
+1065  --------O                                                                 (1 = 3.1%) {93.8%}
+1206  ... 
+4727  --------O                                                                 (1 = 3.1%) {96.9%}
+5352  ... 
+
+Histogram: Net.GoogleConnectionUsedSSLVersionFallback recorded 1 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: Net.HadConnectionType3 recorded 4 samples, average = 5.0 (flags = 0x1)
+0   ------------------------------------------------------------------------O (1 = 25.0%)
+1   ------------------------------------------------------------------------O (1 = 25.0%) {25.0%}
+2   ... 
+7   ------------------------------------------------------------------------O (1 = 25.0%) {50.0%}
+8   ... 
+12  ------------------------------------------------------------------------O (1 = 25.0%) {75.0%}
+13  ... 
+
+Histogram: Net.HttpConnectionLatency recorded 31 samples, average = 334.3 (flags = 0x1)
+0     ... 
+42    ------------------------------------------------O                         (4 = 12.9%) {0.0%}
+48    ------------------------O                                                 (2 = 6.5%) {12.9%}
+54    ... 
+78    ------------O                                                             (1 = 3.2%) {19.4%}
+88    ------------O                                                             (1 = 3.2%) {22.6%}
+100   ------------------------------------O                                     (3 = 9.7%) {25.8%}
+113   ------------------------------------------------------------------------O (6 = 19.4%) {35.5%}
+128   O                                                                         (0 = 0.0%) {54.8%}
+145   ------------O                                                             (1 = 3.2%) {54.8%}
+164   O                                                                         (0 = 0.0%) {58.1%}
+186   ------------------------O                                                 (2 = 6.5%) {58.1%}
+211   ------------------------------------O                                     (3 = 9.7%) {64.5%}
+239   ------------------------------------------------O                         (4 = 12.9%) {74.2%}
+271   ... 
+348   ------------O                                                             (1 = 3.2%) {87.1%}
+394   O                                                                         (0 = 0.0%) {90.3%}
+446   ------------O                                                             (1 = 3.2%) {90.3%}
+505   O                                                                         (0 = 0.0%) {93.5%}
+572   ------------O                                                             (1 = 3.2%) {93.5%}
+648   ... 
+4727  ------------O                                                             (1 = 3.2%) {96.8%}
+5352  ... 
+
+Histogram: Net.HttpJob.TotalTime recorded 83 samples, average = 779.9 (flags = 0x1)
+0     ... 
+48    ------------------O                                                       (2 = 2.4%) {0.0%}
+57    O                                                                         (0 = 0.0%) {2.4%}
+68    ---------O                                                                (1 = 1.2%) {2.4%}
+81    ---------------------------O                                              (3 = 3.6%) {3.6%}
+96    ---------------------------O                                              (3 = 3.6%) {7.2%}
+114   ---------O                                                                (1 = 1.2%) {10.8%}
+135   ------------------------------------------------------------------------O (8 = 9.6%) {12.0%}
+160   ------------------O                                                       (2 = 2.4%) {21.7%}
+190   ------------------O                                                       (2 = 2.4%) {24.1%}
+226   ---------------------------O                                              (3 = 3.6%) {26.5%}
+268   O                                                                         (0 = 0.0%) {30.1%}
+318   ------------------------------------------------------------------------O (8 = 9.6%) {30.1%}
+378   ------------------------------------O                                     (4 = 4.8%) {39.8%}
+449   ---------O                                                                (1 = 1.2%) {44.6%}
+533   ------------------------------------------------------------------------O (8 = 9.6%) {45.8%}
+633   ------------------------------------------------------------------------O (8 = 9.6%) {55.4%}
+752   ---------------------------------------------------------------O          (7 = 8.4%) {65.1%}
+894   ------------------------------------------------------O                   (6 = 7.2%) {73.5%}
+1062  ---------------------------------------------O                            (5 = 6.0%) {80.7%}
+1262  ---------------------------------------------O                            (5 = 6.0%) {86.7%}
+1500  ---------O                                                                (1 = 1.2%) {92.8%}
+1782  ... 
+2516  ---------O                                                                (1 = 1.2%) {94.0%}
+2990  ---------O                                                                (1 = 1.2%) {95.2%}
+3553  ---------O                                                                (1 = 1.2%) {96.4%}
+4222  O                                                                         (0 = 0.0%) {97.6%}
+5017  ---------O                                                                (1 = 1.2%) {97.6%}
+5961  ---------O                                                                (1 = 1.2%) {98.8%}
+7083  ... 
+
+Histogram: Net.HttpJob.TotalTimeCached recorded 1 samples, average = 74.0 (flags = 0x1)
+0   ... 
+68  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+81  ... 
+
+Histogram: Net.HttpJob.TotalTimeCancel recorded 2 samples, average = 310.5 (flags = 0x1)
+0    ... 
+81   ------------------------------------------------------------------------O (1 = 50.0%) {0.0%}
+96   ... 
+533  ------------------------------------------------------------------------O (1 = 50.0%) {50.0%}
+633  ... 
+
+Histogram: Net.HttpJob.TotalTimeNotCached recorded 82 samples, average = 788.5 (flags = 0x1)
+0     ... 
+48    ------------------O                                                       (2 = 2.4%) {0.0%}
+57    ... 
+81    ---------------------------O                                              (3 = 3.7%) {2.4%}
+96    ---------------------------O                                              (3 = 3.7%) {6.1%}
+114   ---------O                                                                (1 = 1.2%) {9.8%}
+135   ------------------------------------------------------------------------O (8 = 9.8%) {11.0%}
+160   ------------------O                                                       (2 = 2.4%) {20.7%}
+190   ------------------O                                                       (2 = 2.4%) {23.2%}
+226   ---------------------------O                                              (3 = 3.7%) {25.6%}
+268   O                                                                         (0 = 0.0%) {29.3%}
+318   ------------------------------------------------------------------------O (8 = 9.8%) {29.3%}
+378   ------------------------------------O                                     (4 = 4.9%) {39.0%}
+449   ---------O                                                                (1 = 1.2%) {43.9%}
+533   ------------------------------------------------------------------------O (8 = 9.8%) {45.1%}
+633   ------------------------------------------------------------------------O (8 = 9.8%) {54.9%}
+752   ---------------------------------------------------------------O          (7 = 8.5%) {64.6%}
+894   ------------------------------------------------------O                   (6 = 7.3%) {73.2%}
+1062  ---------------------------------------------O                            (5 = 6.1%) {80.5%}
+1262  ---------------------------------------------O                            (5 = 6.1%) {86.6%}
+1500  ---------O                                                                (1 = 1.2%) {92.7%}
+1782  ... 
+2516  ---------O                                                                (1 = 1.2%) {93.9%}
+2990  ---------O                                                                (1 = 1.2%) {95.1%}
+3553  ---------O                                                                (1 = 1.2%) {96.3%}
+4222  O                                                                         (0 = 0.0%) {97.6%}
+5017  ---------O                                                                (1 = 1.2%) {97.6%}
+5961  ---------O                                                                (1 = 1.2%) {98.8%}
+7083  ... 
+
+Histogram: Net.HttpJob.TotalTimeSuccess recorded 81 samples, average = 791.5 (flags = 0x1)
+0     ... 
+48    ------------------O                                                       (2 = 2.5%) {0.0%}
+57    O                                                                         (0 = 0.0%) {2.5%}
+68    ---------O                                                                (1 = 1.2%) {2.5%}
+81    ------------------O                                                       (2 = 2.5%) {3.7%}
+96    ---------------------------O                                              (3 = 3.7%) {6.2%}
+114   ---------O                                                                (1 = 1.2%) {9.9%}
+135   ------------------------------------------------------------------------O (8 = 9.9%) {11.1%}
+160   ------------------O                                                       (2 = 2.5%) {21.0%}
+190   ------------------O                                                       (2 = 2.5%) {23.5%}
+226   ---------------------------O                                              (3 = 3.7%) {25.9%}
+268   O                                                                         (0 = 0.0%) {29.6%}
+318   ------------------------------------------------------------------------O (8 = 9.9%) {29.6%}
+378   ------------------------------------O                                     (4 = 4.9%) {39.5%}
+449   ---------O                                                                (1 = 1.2%) {44.4%}
+533   ---------------------------------------------------------------O          (7 = 8.6%) {45.7%}
+633   ------------------------------------------------------------------------O (8 = 9.9%) {54.3%}
+752   ---------------------------------------------------------------O          (7 = 8.6%) {64.2%}
+894   ------------------------------------------------------O                   (6 = 7.4%) {72.8%}
+1062  ---------------------------------------------O                            (5 = 6.2%) {80.2%}
+1262  ---------------------------------------------O                            (5 = 6.2%) {86.4%}
+1500  ---------O                                                                (1 = 1.2%) {92.6%}
+1782  ... 
+2516  ---------O                                                                (1 = 1.2%) {93.8%}
+2990  ---------O                                                                (1 = 1.2%) {95.1%}
+3553  ---------O                                                                (1 = 1.2%) {96.3%}
+4222  O                                                                         (0 = 0.0%) {97.5%}
+5017  ---------O                                                                (1 = 1.2%) {97.5%}
+5961  ---------O                                                                (1 = 1.2%) {98.8%}
+7083  ... 
+
+Histogram: Net.HttpResponseCode recorded 82 samples, average = 202.5 (flags = 0x1)
+0    ... 
+200  ------------------------------------------------------------------------O (80 = 97.6%) {0.0%}
+201  ... 
+302  ------------------------------------------------------------------------O (2 = 2.4%) {97.6%}
+303  ... 
+
+Histogram: Net.HttpSocketType recorded 82 samples, average = 1.2 (flags = 0x1)
+0  --------------------------------------------O                             (31 = 37.8%)
+1  O                                                                         (0 = 0.0%) {37.8%}
+2  ------------------------------------------------------------------------O (51 = 62.2%) {37.8%}
+3  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Net.HttpTimeToFirstByte recorded 83 samples, average = 486.3 (flags = 0x1)
+0     -------O                                                                  (1 = 1.2%)
+10    ... 
+41    -------O                                                                  (1 = 1.2%) {1.2%}
+50    ----------------------------------------------O                           (7 = 8.4%) {2.4%}
+61    -------O                                                                  (1 = 1.2%) {10.8%}
+75    --------------------O                                                     (3 = 3.6%) {12.0%}
+92    ----------------------------------------------------O                     (8 = 9.6%) {15.7%}
+113   --------------------O                                                     (3 = 3.6%) {25.3%}
+139   ---------------------------------O                                        (5 = 6.0%) {28.9%}
+171   ---------------------------------O                                        (5 = 6.0%) {34.9%}
+210   O                                                                         (0 = 0.0%) {41.0%}
+258   ---------------------------------O                                        (5 = 6.0%) {41.0%}
+317   ---------------------------------O                                        (5 = 6.0%) {47.0%}
+389   ---------------------------------O                                        (5 = 6.0%) {53.0%}
+477   -------O                                                                  (1 = 1.2%) {59.0%}
+585   ------------------------------------------------------------------------O (11 = 13.3%) {60.2%}
+718   ------------------------------------------------------------------------O (11 = 13.3%) {73.5%}
+881   -----------------------------------------------------------O              (9 = 10.8%) {86.7%}
+1081  -------O                                                                  (1 = 1.2%) {97.6%}
+1326  ... 
+4524  -------O                                                                  (1 = 1.2%) {98.8%}
+5551  ... 
+
+Histogram: Net.NumDuplicateCookiesInDb recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.PreconnectUtilization2 recorded 3 samples, average = 2.0 (flags = 0x1)
+0  ... 
+2  ------------------------------------------------------------------------O (3 = 100.0%) {0.0%}
+3  ... 
+
+Histogram: Net.Priority_High_Latency_b recorded 2 samples, average = 252.0 (flags = 0x1)
+0    ... 
+78   ------------------------------------------------------------------------O (1 = 50.0%) {0.0%}
+88   ... 
+394  ------------------------------------------------------------------------O (1 = 50.0%) {50.0%}
+446  ... 
+
+Histogram: Net.RenegotiationExtensionSupported recorded 12 samples, average = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (12 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Net.SSLCertVerificationTime recorded 12 samples, average = 1.5 (flags = 0x1)
+0   ------------------------------------------------------------------------O (8 = 66.7%)
+1   ------------------O                                                       (2 = 16.7%) {66.7%}
+2   ... 
+4   ---------O                                                                (1 = 8.3%) {83.3%}
+5   ... 
+12  -----O                                                                    (1 = 8.3%) {91.7%}
+14  ... 
+
+Histogram: Net.SSL_Connection_Latency recorded 12 samples, average = 175.8 (flags = 0x1)
+0    ... 
+100  --------------O                                                           (1 = 8.3%) {0.0%}
+113  O                                                                         (0 = 0.0%) {8.3%}
+128  ------------------------------------------------------------------------O (5 = 41.7%) {8.3%}
+145  -------------------------------------------O                              (3 = 25.0%) {50.0%}
+164  ... 
+239  --------------O                                                           (1 = 8.3%) {75.0%}
+271  --------------O                                                           (1 = 8.3%) {83.3%}
+307  O                                                                         (0 = 0.0%) {91.7%}
+348  --------------O                                                           (1 = 8.3%) {91.7%}
+394  ... 
+
+Histogram: Net.SSL_Connection_Latency_Full_Handshake recorded 12 samples, average = 175.8 (flags = 0x1)
+0    ... 
+101  ------------------------O                                                 (1 = 8.3%) {0.0%}
+111  O                                                                         (0 = 0.0%) {8.3%}
+122  ------------------------------------------------------------------------O (3 = 25.0%) {8.3%}
+135  ------------------------------------------------------------------------O (3 = 25.0%) {33.3%}
+149  ------------------------------------------------O                         (2 = 16.7%) {58.3%}
+164  ... 
+221  ------------------------O                                                 (1 = 8.3%) {75.0%}
+244  O                                                                         (0 = 0.0%) {83.3%}
+269  ------------------------O                                                 (1 = 8.3%) {83.3%}
+297  O                                                                         (0 = 0.0%) {91.7%}
+328  ------------------------O                                                 (1 = 8.3%) {91.7%}
+362  ... 
+
+Histogram: Net.SSL_Connection_Latency_Google recorded 1 samples, average = 147.0 (flags = 0x1)
+0    ... 
+145  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+164  ... 
+
+Histogram: Net.SSL_Connection_Latency_Google_Full_Handshake recorded 1 samples, average = 147.0 (flags = 0x1)
+0    ... 
+135  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+149  ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket recorded 51 samples, average = 186.5 (flags = 0x1)
+0     ------------------------------------------------------------------------O (42 = 82.4%)
+1     --O                                                                       (1 = 2.0%) {82.4%}
+2     ... 
+18    -O                                                                        (1 = 2.0%) {84.3%}
+20    ... 
+29    O                                                                         (1 = 2.0%) {86.3%}
+33    ... 
+1122  O                                                                         (1 = 2.0%) {88.2%}
+1262  O                                                                         (0 = 0.0%) {90.2%}
+1420  -O                                                                        (2 = 3.9%) {90.2%}
+1597  -O                                                                        (3 = 5.9%) {94.1%}
+1797  ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSL2 recorded 2 samples, average = 624.0 (flags = 0x1)
+0     ------------------------------------------------------------------------O (1 = 50.0%)
+1     ... 
+1122  --------------O                                                           (1 = 50.0%) {50.0%}
+1262  ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCP recorded 49 samples, average = 168.6 (flags = 0x1)
+0     ------------------------------------------------------------------------O (41 = 83.7%)
+1     --O                                                                       (1 = 2.0%) {83.7%}
+2     ... 
+18    -O                                                                        (1 = 2.0%) {85.7%}
+20    ... 
+29    O                                                                         (1 = 2.0%) {87.8%}
+33    ... 
+1420  -O                                                                        (2 = 4.1%) {89.8%}
+1597  -O                                                                        (3 = 6.1%) {93.9%}
+1797  ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSL2 recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCP recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SSL2 recorded 14 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (14 = 100.0%)
+1  ... 
+
+Histogram: Net.SocketInitErrorCodes_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCP recorded 80 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (80 = 100.0%)
+1  ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SSL2 recorded 12 samples, average = 297.2 (flags = 0x1)
+0    ... 
+186  ------------------------------------O                                     (2 = 16.7%) {0.0%}
+211  ------------------------------------------------------O                   (3 = 25.0%) {16.7%}
+239  ------------------------------------------------------------------------O (4 = 33.3%) {41.7%}
+271  ... 
+348  ------------------O                                                       (1 = 8.3%) {75.0%}
+394  O                                                                         (0 = 0.0%) {83.3%}
+446  ------------------O                                                       (1 = 8.3%) {83.3%}
+505  O                                                                         (0 = 0.0%) {91.7%}
+572  ------------------O                                                       (1 = 8.3%) {91.7%}
+648  ... 
+
+Histogram: Net.SocketRequestTime_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCP recorded 31 samples, average = 266.0 (flags = 0x1)
+0     ... 
+42    --------------------------------O                                         (4 = 12.9%) {0.0%}
+48    ------------------------O                                                 (3 = 9.7%) {12.9%}
+54    ... 
+78    --------O                                                                 (1 = 3.2%) {22.6%}
+88    ----------------------------------------O                                 (5 = 16.1%) {25.8%}
+100   ----------------------------------------O                                 (5 = 16.1%) {41.9%}
+113   ------------------------------------------------------------------------O (9 = 29.0%) {58.1%}
+128   --------O                                                                 (1 = 3.2%) {87.1%}
+145   --------O                                                                 (1 = 3.2%) {90.3%}
+164   ... 
+307   --------O                                                                 (1 = 3.2%) {93.5%}
+348   ... 
+4727  --------O                                                                 (1 = 3.2%) {96.8%}
+5352  ... 
+
+Histogram: Net.SocketRequestTime_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SSL2 recorded 14 samples, average = 0.3 (flags = 0x1)
+0  ------------------------------------------------------------------------O (12 = 85.7%)
+1  O                                                                         (0 = 0.0%) {85.7%}
+2  ------------O                                                             (2 = 14.3%) {85.7%}
+3  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Net.SocketType_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCP recorded 80 samples, average = 1.2 (flags = 0x1)
+0  ----------------------------------------------O                           (31 = 38.8%)
+1  O                                                                         (0 = 0.0%) {38.8%}
+2  ------------------------------------------------------------------------O (49 = 61.2%) {38.8%}
+3  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Net.SocketType_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.TCP_Connection_Latency recorded 32 samples, average = 87.6 (flags = 0x1)
+0    ... 
+33   ------O                                                                   (1 = 3.1%) {0.0%}
+37   O                                                                         (0 = 0.0%) {3.1%}
+42   -------------------O                                                      (4 = 12.5%) {3.1%}
+48   ------------------------------------------------------------------------O (15 = 46.9%) {15.6%}
+54   -------------------O                                                      (4 = 12.5%) {62.5%}
+61   --------------O                                                           (3 = 9.4%) {75.0%}
+69   -----O                                                                    (1 = 3.1%) {84.4%}
+78   ----------O                                                               (2 = 6.2%) {87.5%}
+88   ... 
+113  -----O                                                                    (1 = 3.1%) {93.8%}
+128  ... 
+941  -----O                                                                    (1 = 3.1%) {96.9%}
+1065 ... 
+
+Histogram: Net.TCP_Connection_Latency_IPv4_No_Race recorded 18 samples, average = 113.7 (flags = 0x1)
+0    ... 
+42   ------------------------------------O                                     (4 = 22.2%) {0.0%}
+48   ------------------------------------------------------------------------O (8 = 44.4%) {22.2%}
+54   ---------O                                                                (1 = 5.6%) {66.7%}
+61   O                                                                         (0 = 0.0%) {72.2%}
+69   ---------O                                                                (1 = 5.6%) {72.2%}
+78   ------------------O                                                       (2 = 11.1%) {77.8%}
+88   ... 
+113  ---------O                                                                (1 = 5.6%) {88.9%}
+128  ... 
+941  ---------O                                                                (1 = 5.6%) {94.4%}
+1065 ... 
+
+Histogram: Net.TCP_Connection_Latency_IPv6_Raceable recorded 14 samples, average = 54.1 (flags = 0x1)
+0   ... 
+33  -------------O                                                            (1 = 7.1%) {0.0%}
+37  ... 
+48  ------------------------------------------------------------------------O (7 = 50.0%) {7.1%}
+54  -------------------------------O                                          (3 = 21.4%) {57.1%}
+61  -------------------------------O                                          (3 = 21.4%) {78.6%}
+69  ... 
+
+Histogram: Net.Transaction_Connected recorded 2 samples, average = 252.0 (flags = 0x1)
+0    ... 
+78   ------------------------------------------------------------------------O (1 = 50.0%) {0.0%}
+88   ... 
+394  ------------------------------------------------------------------------O (1 = 50.0%) {50.0%}
+446  ... 
+
+Histogram: Net.Transaction_Connected_New_b recorded 1 samples, average = 422.0 (flags = 0x1)
+0    ... 
+394  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+446  ... 
+
+Histogram: Net.Transaction_Latency_Total recorded 79 samples, average = 809.1 (flags = 0x1)
+0     ... 
+54    ------------------O                                                       (2 = 2.5%) {0.0%}
+61    ... 
+88    ------------------O                                                       (2 = 2.5%) {2.5%}
+100   ------------------O                                                       (2 = 2.5%) {5.1%}
+113   O                                                                         (0 = 0.0%) {7.6%}
+128   ---------------------------------------------------------------O          (7 = 8.9%) {7.6%}
+145   ------------------O                                                       (2 = 2.5%) {16.5%}
+164   ------------------O                                                       (2 = 2.5%) {19.0%}
+186   ---------O                                                                (1 = 1.3%) {21.5%}
+211   ---------------------------O                                              (3 = 3.8%) {22.8%}
+239   ---------O                                                                (1 = 1.3%) {26.6%}
+271   O                                                                         (0 = 0.0%) {27.8%}
+307   ------------------------------------O                                     (4 = 5.1%) {27.8%}
+348   ---------------------------------------------O                            (5 = 6.3%) {32.9%}
+394   ---------------------------O                                              (3 = 3.8%) {39.2%}
+446   ---------O                                                                (1 = 1.3%) {43.0%}
+505   ---------------------------O                                              (3 = 3.8%) {44.3%}
+572   ------------------------------------O                                     (4 = 5.1%) {48.1%}
+648   ---------------------------------------------O                            (5 = 6.3%) {53.2%}
+734   ------------------------------------------------------O                   (6 = 7.6%) {59.5%}
+831   ------------------------------------------------------------------------O (8 = 10.1%) {67.1%}
+941   ---------------------------O                                              (3 = 3.8%) {77.2%}
+1065  ---------------------------O                                              (3 = 3.8%) {81.0%}
+1206  ------------------------------------------------------O                   (6 = 7.6%) {84.8%}
+1365  O                                                                         (0 = 0.0%) {92.4%}
+1546  ---------O                                                                (1 = 1.3%) {92.4%}
+1750  ... 
+2540  ---------O                                                                (1 = 1.3%) {93.7%}
+2876  ---------O                                                                (1 = 1.3%) {94.9%}
+3256  ---------O                                                                (1 = 1.3%) {96.2%}
+3687  ... 
+4727  ---------O                                                                (1 = 1.3%) {97.5%}
+5352  O                                                                         (0 = 0.0%) {98.7%}
+6060  ---------O                                                                (1 = 1.3%) {98.7%}
+6861  ... 
+
+Histogram: Net.Transaction_Latency_Total_New_Connection recorded 30 samples, average = 1110.7 (flags = 0x1)
+0     ... 
+100   ------------------------------------O                                     (2 = 6.7%) {0.0%}
+113   O                                                                         (0 = 0.0%) {6.7%}
+128   ------------------O                                                       (1 = 3.3%) {6.7%}
+145   ... 
+186   ------------------O                                                       (1 = 3.3%) {10.0%}
+211   ------------------O                                                       (1 = 3.3%) {13.3%}
+239   ------------------O                                                       (1 = 3.3%) {16.7%}
+271   O                                                                         (0 = 0.0%) {20.0%}
+307   ------------------------------------------------------------------------O (4 = 13.3%) {20.0%}
+348   ------------------------------------------------------------------------O (4 = 13.3%) {33.3%}
+394   ------------------------------------------------------O                   (3 = 10.0%) {46.7%}
+446   ------------------O                                                       (1 = 3.3%) {56.7%}
+505   O                                                                         (0 = 0.0%) {60.0%}
+572   ------------------------------------O                                     (2 = 6.7%) {60.0%}
+648   ------------------O                                                       (1 = 3.3%) {66.7%}
+734   ... 
+941   ------------------O                                                       (1 = 3.3%) {70.0%}
+1065  O                                                                         (0 = 0.0%) {73.3%}
+1206  ------------------------------------------------------O                   (3 = 10.0%) {73.3%}
+1365  ... 
+2540  ------------------O                                                       (1 = 3.3%) {83.3%}
+2876  ------------------O                                                       (1 = 3.3%) {86.7%}
+3256  ------------------O                                                       (1 = 3.3%) {90.0%}
+3687  ... 
+4727  ------------------O                                                       (1 = 3.3%) {93.3%}
+5352  O                                                                         (0 = 0.0%) {96.7%}
+6060  ------------------O                                                       (1 = 3.3%) {96.7%}
+6861  ... 
+
+Histogram: Net.Transaction_Latency_b recorded 79 samples, average = 417.0 (flags = 0x1)
+0     ... 
+42    -------O                                                                  (1 = 1.3%) {0.0%}
+48    ------------------------------------------------------------------------O (10 = 12.7%) {1.3%}
+54    -------------------------------------------O                              (6 = 7.6%) {13.9%}
+61    ------------------------------------O                                     (5 = 6.3%) {21.5%}
+69    -----------------------------O                                            (4 = 5.1%) {27.8%}
+78    -----------------------------O                                            (4 = 5.1%) {32.9%}
+88    -------O                                                                  (1 = 1.3%) {38.0%}
+100   ----------------------O                                                   (3 = 3.8%) {39.2%}
+113   --------------O                                                           (2 = 2.5%) {43.0%}
+128   -----------------------------------------------------------------O        (9 = 11.4%) {45.6%}
+145   -------------------------------------------O                              (6 = 7.6%) {57.0%}
+164   -------O                                                                  (1 = 1.3%) {64.6%}
+186   --------------O                                                           (2 = 2.5%) {65.8%}
+211   --------------O                                                           (2 = 2.5%) {68.4%}
+239   -------O                                                                  (1 = 1.3%) {70.9%}
+271   ----------------------O                                                   (3 = 3.8%) {72.2%}
+307   ----------------------O                                                   (3 = 3.8%) {75.9%}
+348   --------------O                                                           (2 = 2.5%) {79.7%}
+394   ... 
+505   ----------------------O                                                   (3 = 3.8%) {82.3%}
+572   -------O                                                                  (1 = 1.3%) {86.1%}
+648   O                                                                         (0 = 0.0%) {87.3%}
+734   -------O                                                                  (1 = 1.3%) {87.3%}
+831   ... 
+1065  ----------------------O                                                   (3 = 3.8%) {88.6%}
+1206  -------O                                                                  (1 = 1.3%) {92.4%}
+1365  O                                                                         (0 = 0.0%) {93.7%}
+1546  -------O                                                                  (1 = 1.3%) {93.7%}
+1750  ... 
+2243  -------O                                                                  (1 = 1.3%) {94.9%}
+2540  O                                                                         (0 = 0.0%) {96.2%}
+2876  -------O                                                                  (1 = 1.3%) {96.2%}
+3256  -------O                                                                  (1 = 1.3%) {97.5%}
+3687  ... 
+6060  -------O                                                                  (1 = 1.3%) {98.7%}
+6861  ... 
+
+Histogram: Net.UnspecResolvedIPv6 recorded 1 samples, average = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+
+</queries>
